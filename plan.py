@@ -28,7 +28,7 @@ FIRMY = ("BOJKUN, Protrans SK, IMP Transport, Target Group, Autodoprava Kočiš,
 PITCH = ("Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši "
          "ľudia môžu robiť svoju prácu namiesto umývania.")
 OBH = ("Pri obhliadke zisti: voda (prípojka, tlak), tlakový stroj a typ koncovky, "
-       "odlučovač ropných látok, osvetlenie, kedy sú autá v depe, koľko áut a akého typu.")
+       "odlučovač ropných látok, osvetlenie, kedy sú autá v depe, koľko áut a akého typu, či je umývacie miesto v hale alebo vykurované.")
 SKUSKA = ("Skúška zadarmo (2 až 3 vozidlá).\n"
  "- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n"
  "- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n"
@@ -84,7 +84,7 @@ a(D(2026,10,13),"08:00","09:30","Telefonáty: úrad, účtovníčka, poisťovne"
 a(D(2026,10,14),"18:30","20:00","Poisťovne: žiadosti o ponuku e-mailom",
   "Večerný blok, lebo cez deň máš Byt.\nPošli e-mailom žiadosť o ponuku 3 poisťovniam.\n"
   "- Činnosť: mobilné umývanie nákladných vozidiel u zákazníka.\n"
-  "- Krytie: škody na cudzích vozidlách (prevzaté veci), limit, spoluúčasť, ročná cena.")
+  "- Krytie: škody na cudzích vozidlách (prevzaté veci), limit, spoluúčasť, ročná cena.\n- Spýtaj sa aj na škody po umytí pri mraze a úrazové poistenie pre seba.")
 # 15.-18.10 Orava - nic
 
 # T3: 19.-23.10
@@ -112,7 +112,7 @@ a(m[4],"09:00","11:30","Vzor zmluvy",
   "Priprav vzor zmluvy o poskytovaní služieb:\n- Rozsah (čo sa umýva), cenník za kus.\n"
   "- Kto dodáva vodu a stroj (zákazník) a kto chémiu a náradie (ty).\n- Odpadová voda do odlučovača zákazníka.\n"
   "- Zodpovednosť za škody, odkaz na poistenie.\n- Fakturácia mesačne, splatnosť 14 dní.\n"
-  "- Výpovedná lehota 1 mesiac.\n- Bezpečnosť práce v areáli.\nDaj si ju skontrolovať.")
+  "- Pri mraze pod -5 °C bez haly náhradný termín.\n- Výpovedná lehota 1 mesiac.\n- Bezpečnosť práce v areáli.\nDaj si ju skontrolovať.")
 a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
 a(D(2026,10,24),"09:00","10:30","Fotky a jednoduchá prezentácia (voliteľné)",
   "Priprav si jednoduchú vizitku a stránku na Facebooku alebo Instagrame.\n"
@@ -121,75 +121,109 @@ a(D(2026,10,24),"09:00","10:30","Fotky a jednoduchá prezentácia (voliteľné)"
 # T4: 26.-30.10
 m = po_pi(D(2026,10,26))
 a(m[0],"09:00","09:30","Plán týždňa",PLAN)
-a(m[0],"09:30","11:30","Posledné návštevy firiem", f"Cieľ: 3 firmy so súhlasom na skúšku.\n{PITCH}")
+a(m[0],"09:30","11:30","Posledné návštevy firiem", f"Cieľ: 3 firmy so súhlasom na skúšku.\n{PITCH}\n- Skúšky dohaduj na 11. až 13. 11., keď už budeš mať peniaze a výbavu.")
+a(m[0],"13:00","14:00","Rozpočet a prehľad peňazí",
+  "Spočítaj výdavky dopredu oproti 1 000 až 1 500 €, ktoré prídu okolo 7. 11.:\n"
+  "- Chémia a náradie: minimum okolo 760 €.\n- Poistenie: podľa ponúk, opýtaj sa na štvrťročnú platbu.\n"
+  "- Účtovníčka mesačne, palivo, vizitky.\n- Rezerva aspoň 150 €.\n"
+  "Rozhodni, čo počká: magnetické tabule a tričko až po prvej zmluve.\n"
+  "Prvá platba od zákazníka príde najskôr v polovici decembra (faktúra 30. 11. + splatnosť). Zváž kratšiu splatnosť 7 dní.")
 a(m[1],"09:00","10:30","Ohlásenie živnosti",
   "Priprav ohlásenie živnosti cez slovensko.sk (občiansky s čipom) alebo na jednotnom kontaktnom mieste Okresného úradu MI.\n"
   "- Predmet podnikania podľa rady účtovníčky.\n- Podaj hneď, ako je isté, že peniaze prídu. Živnosť musíš mať pred prvou platenou prácou.")
 a(m[1],"13:00","14:30","Doplnková návšteva firmy", f"Ak ešte nemáš 3 skúšky.\n{PITCH}")
 a(m[2],"09:00","11:00","Poistenie, fakturácia, účet",
-  "- Vyber poistenie (krytie škôd na vozidlách zákazníka!), začiatok najneskôr k prvej skúške.\n"
+  "- Vyber poistenie (krytie škôd na vozidlách zákazníka!), začiatok najneskôr 11. 11., k prvej skúške.\n"
+  "- Spýtaj sa aj na škody spôsobené mrazom po umytí a na úrazové poistenie pre seba.\n"
   "- Vyber fakturačnú aplikáciu (SuperFaktúra, iDoklad), nastav šablónu.\n- Založ osobitný bankový účet na podnikanie.")
-a(m[3],"09:00","10:30","Objednať vizitky, tabule, tričko",
-  "- Vizitky 100 ks.\n- Magnetické tabule na Octaviu s názvom a telefónom.\n"
-  "- Pracovné tričko alebo mikina s nápisom.\n- Dodanie zvyčajne do týždňa. Rozpočet 60 až 150 €.")
+a(m[2],"13:00","14:30","Zimný režim umývania pri mraze",
+  "Celá prevádzka pobeží od novembra do februára. Ujasni si pravidlá:\n"
+  "- Hraničná teplota: pod -5 °C umývať len v hale, inak náhradný termín. Zapíš to do zmluvy.\n"
+  "- Po umytí vysuš alebo ofúkaj zámky, tesnenia dverí, stierače a zrkadlá.\n"
+  "- Chémiu cez noc skladuj v teple, nie v prívese.\n- Po práci vypusti vodu z penového nadstavca a hadíc.\n"
+  "- Termo vrstvy pod nepremokavé oblečenie, každú hodinu krátka prestávka v teple.\n"
+  "- Pri návštevách sa pýtaj: je umývacie miesto v hale? Kde auto po umytí stojí? Kto posýpa plochu?")
+a(m[3],"09:00","10:00","Objednať vizitky",
+  "- Vizitky 100 ks (do 20 €), dodanie zvyčajne do týždňa.\n"
+  "- Magnetické tabule na Octaviu a tričko s nápisom objednaj až po prvej podpísanej zmluve, podľa rozpočtu.")
 a(m[4],"09:00","10:30","Potvrdiť termíny skúšok",
-  "Zavolaj 3 firmám a potvrď presný deň a hodinu skúšky.\n- Spýtaj sa, ktoré 2 až 3 autá budú k dispozícii.\n- Pošli SMS alebo e-mail s potvrdením.")
+  "Zavolaj 3 firmám a potvrď presný deň a hodinu skúšky na 11., 12. a 13. 11.\n"
+  "- Spýtaj sa, ktoré 2 až 3 autá budú k dispozícii.\n"
+  "- Vyžiadaj si pravidlá areálu a poučenie o bezpečnosti (BOZP) pre dodávateľa.\n"
+  "- Pošli SMS alebo e-mail s potvrdením.")
+a(m[4],"10:45","12:00","Bezpečnosť: výška, areál, preprava",
+  "Pred nákupom výbavy si ujasni bezpečnosť:\n"
+  "- Kúp plošinový rebrík so zábradlím, nie opierací. Strechu návesu umývaj teleskopickou kefou zo zeme, na strechu vozidla nikdy neliez.\n"
+  "- Na zľadovatenej ploche s rebríkom nepracuj. Tlakovou pištoľou nestriekaj z rebríka jednou rukou.\n"
+  "- Do nákupu pridaj reflexnú vestu a protišmykovú obuv.\n"
+  "- Pracuješ sám: vždy niekomu blízkemu pošli správu, kedy začínaš a kedy končíš.\n"
+  "- Príves: over platnosť STK a PZP, celkovú hmotnosť pre vodičák B a ako zaistiť kanistre s chémiou počas jazdy.")
 a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
 a(D(2026,10,31),"09:00","10:00","Kontrola tabuľky firiem (voliteľné)",
   "Prejdi tabuľku, doplň chýbajúce kontakty a stavy. Označ firmy, ktoré treba ešte raz osloviť." + VOL)
 
-# T5: 2.-6.11
+# T5: 2.-6.11 (peniaze prídu okolo 7. 11., tento týždeň bez nákupov)
 m = po_pi(D(2026,11,2))
-a(m[0],"09:00","09:30","Plán týždňa",PLAN)
-a(m[0],"09:30","11:30","Nákup chémie a náradia",
-  "Keď prídu peniaze, objednaj (minimum okolo 760 €):\n"
+a(m[0],"09:00","09:30","Plán týždňa",PLAN + "\nTento týždeň ešte bez nákupov, peniaze prídu okolo 7. 11.")
+a(m[0],"09:30","11:30","Ďalšie návštevy firiem",
+  f"Rezerva, aby boli 3 skúšky isté. Navštív firmy, ktoré ešte nepovedali áno ani nie.\n{PITCH}\n{OBH}")
+a(m[1],"09:00","10:30","Nákupný zoznam a ceny výbavy",
+  "Priprav presný zoznam s cenami, aby si 9. 11. len kúpil:\n"
   "- Aktívna pena Tenzi Truck Clean 20 l, odmasťovač Kärcher RM 81 20 l, čistič diskov a skiel.\n"
-  "- Penový nadstavec podľa koncovky zákazníka, teleskopické kefy, kefa na disky.\n"
-  "- Rebrík alebo plošina, mikrovlákna, vedrá.\n- Gumáky, nepremokavé oblečenie, rukavice, okuliare.\n"
-  "Aktivuj poistenie. Ak peniaze ešte nie sú, posuň skúšky o pár dní.")
-a(m[1],"10:00","12:00","Príprava výbavy",
-  "- Skontroluj, čo prišlo.\n- Priprav box s chémiou a náradím do auta alebo prívesu.\n"
-  "- Napíš si checklist, čo brať na každý výjazd.\n- Odmeraj si riedenie chémie.")
-a(m[2],"08:00","12:00","Skúška u firmy 1",SKUSKA)
-a(m[3],"09:00","10:30","Ponuka pre firmu 1",
-  "- Spracuj fotky pred a po.\n- Zapíš namerané časy.\n- Pošli ponuku s cenou za kus a fotkami do 2 dní od skúšky.\n"
-  "- Zavolaj dispečerovi, či boli spokojní.")
-a(m[3],"13:00","14:00","Administratíva",
-  "- Zapíš náklady na nákup, bločky a faktúry odlož pre účtovníčku.\n- Skontroluj, či je živnosť zapísaná (zrsr.sk).")
-a(m[4],"08:00","12:00","Skúška u firmy 2",SKUSKA)
+  "- Penový nadstavec podľa koncovky zákazníka (máš fotky z obhliadok), teleskopické kefy, kefa na disky.\n"
+  "- Plošinový rebrík so zábradlím, mikrovlákna, vedrá.\n"
+  "- Gumáky, nepremokavé oblečenie, termo vrstvy, rukavice, okuliare, reflexná vesta, protišmyková obuv.\n"
+  "- Nájdi predajcu v Michalovciach alebo Košiciach s osobným odberom, aby si mal tovar v ten istý deň.")
+a(m[2],"09:00","10:30","Poistenie a živnosť: kontrola",
+  "- Dohodni poistku so začiatkom najneskôr 11. 11. a priprav platbu na 9. 11.\n- Skontroluj, či je živnosť zapísaná (zrsr.sk).")
+a(m[3],"09:30","11:30","Rezerva na nedokončené úlohy",
+  "Dokonči, čo z októbra ostalo. Ak nie je nič, doplnková návšteva firmy alebo hľadanie ďalších firiem.")
+a(m[4],"09:00","10:00","Pripomenúť skúšky firmám",
+  "Krátko zavolaj alebo napíš 3 firmám a potvrď skúšky 11. až 13. 11. Over, kto bude na mieste a ktoré autá.")
 a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
-a(D(2026,11,7),"09:00","10:00","Údržba a kontrola výbavy (voliteľné)",
-  "Umy a usuš kefy a mikrovlákna, skontroluj zásoby chémie, doplň, čo chýba." + VOL)
+a(D(2026,11,7),"09:00","10:00","Video návody k umývaniu (voliteľné)",
+  "Pozri 2 až 3 videá o umývaní kamiónov aktívnou penou a o práci s penovým nadstavcom. Prečítaj technické listy k chémii zo zoznamu." + VOL)
 
-# T6: 9.-13.11
+# T6: 9.-13.11 - nákup a skúšky
 m = po_pi(D(2026,11,9))
 a(m[0],"09:00","09:30","Plán týždňa",PLAN)
-a(m[0],"09:30","11:00","Ponuka pre firmu 2","Fotky, namerané časy, ponuka s cenou za kus do 2 dní od skúšky.")
-a(m[1],"08:00","12:00","Skúška u firmy 3",SKUSKA)
-a(m[2],"09:00","11:00","Úprava cenníka",
-  "Vzorec: cena za kus = hodinová sadzba (20 €) × čas + chémia + doprava.\n- Dosaď namerané časy zo skúšok.\n"
-  "- Minimálne 5 vozidiel na výjazd alebo paušál za výjazd okolo 15 €.\n- Extrémne znečistené +30 %.")
-a(m[3],"09:30","11:00","Stretnutie: zmluva s firmou 1",
-  "- Vezmi 2 vytlačené zmluvy.\n- Dohodni pravidelný deň umývania, zoznam vozidiel, kontakt na dispečera.\n- Podpis.")
-a(m[3],"13:00","14:30","Ponuka pre firmu 3","Ponuka po skúške, aktualizuj tabuľku firiem.")
-a(m[4],"08:00","12:00","Umývanie: prvý platený výjazd",
-  UMY + "\nAk ešte nemáš zmluvu, použi čas na follow-up telefonáty.")
-a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
+a(m[0],"09:30","12:00","Nákup chémie a náradia",
+  "Podľa nákupného zoznamu z 3. 11., ideálne osobný odber, aby si mal všetko ešte dnes.\n"
+  "- Zaplať a aktivuj poistenie (začiatok najneskôr 11. 11.).\n"
+  "- Ak peniaze ešte neprišli, hneď zavolaj firmám a posuň skúšky o pár dní.")
+a(m[1],"10:00","12:00","Príprava výbavy",
+  "- Skontroluj, či máš všetko zo zoznamu.\n- Priprav box s chémiou a náradím do auta alebo prívesu, kanistre zaisti.\n"
+  "- Napíš si checklist, čo brať na každý výjazd.\n- Odmeraj si riedenie chémie.")
+a(m[2],"08:00","12:00","Skúška u firmy 1",SKUSKA)
+a(m[3],"08:00","12:00","Skúška u firmy 2",SKUSKA)
+a(m[3],"13:30","15:00","Ponuka pre firmu 1",
+  "- Spracuj fotky pred a po.\n- Zapíš namerané časy.\n- Pošli ponuku s cenou za kus a fotkami do 2 dní od skúšky.\n"
+  "- Zavolaj dispečerovi, či boli spokojní.")
+a(m[4],"08:00","12:00","Skúška u firmy 3",SKUSKA)
+a(m[4],"13:00","14:00","Ponuka pre firmu 2","Fotky, namerané časy, ponuka s cenou za kus do 2 dní od skúšky.")
+a(m[4],"14:15","15:00","Týždenný prehľad",PREHLAD)
 a(D(2026,11,14),"09:00","10:00","Fotky pred a po: archív (voliteľné)",
-  "Roztrieď fotky z umývania do priečinkov podľa firmy a dátumu. Vyber najlepšie dvojice pred/po pre ponuky a investora." + VOL)
+  "Roztrieď fotky zo skúšok do priečinkov podľa firmy a dátumu. Vyber najlepšie dvojice pred/po pre ponuky a investora." + VOL)
 
 # T7: 16.-20.11 (17.11 sviatok)
 m = po_pi(D(2026,11,16))
 a(m[0],"09:00","09:30","Plán týždňa",PLAN + "\nUtorok 17. 11. je sviatok, voľno.")
-a(m[0],"09:30","11:00","Follow-up firmy 2 a 3",
+a(m[0],"09:30","10:30","Ponuka pre firmu 3","Ponuka po skúške do 2 dní, aktualizuj tabuľku firiem.")
+a(m[0],"13:00","14:30","Stretnutie: zmluva s firmou 1",
+  "- Vezmi 2 vytlačené zmluvy.\n- Dohodni pravidelný deň umývania, zoznam vozidiel, kontakt na dispečera.\n- Podpis.")
+a(m[2],"09:00","11:00","Úprava cenníka",
+  "Vzorec: cena za kus = hodinová sadzba (20 €) × čas + chémia + doprava.\n- Dosaď namerané časy zo skúšok.\n"
+  "- Minimálne 5 vozidiel na výjazd alebo paušál za výjazd okolo 15 €.\n- Extrémne znečistené +30 %.")
+a(m[2],"13:00","14:00","Follow-up firmy 2 a 3",
   "Zavolaj, ako sa rozhodli. Pri súhlase dohodni stretnutie na podpis zmluvy.")
-a(m[2],"09:30","11:00","Stretnutie: zmluva s firmou 2","Vezmi zmluvy, dohodni pravidelný deň a zoznam vozidiel.")
-a(m[3],"09:00","10:30","Náklady na jedno auto",
-  "Spočítaj skutočné náklady: chémia na auto, palivo na výjazd, čas.\nPorovnaj s cenníkom a uprav, ak treba.")
-a(m[4],"08:00","12:00","Umývanie",UMY)
+a(m[3],"09:30","11:00","Stretnutie: zmluva s firmou 2","Vezmi zmluvy, dohodni pravidelný deň a zoznam vozidiel.")
+a(m[3],"13:00","14:00","Administratíva",
+  "- Zapíš náklady na nákup, bločky a faktúry odlož pre účtovníčku.\n- Ak ešte nie je, objednaj magnetické tabule na auto.")
+a(m[4],"08:00","12:00","Umývanie: prvý platený výjazd",
+  UMY + "\nAk ešte nemáš zmluvu, použi čas na follow-up telefonáty.")
 a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
-a(D(2026,11,21),"09:00","10:00","Čítanie: chémia a technika (voliteľné)",
-  "Prečítaj si technické listy k chémii, ktorú používaš, a pozri 2 až 3 videá o umývaní kamiónov. Zapíš, čo vyskúšaš." + VOL)
+a(D(2026,11,21),"09:00","10:00","Údržba a kontrola výbavy (voliteľné)",
+  "Umy a usuš kefy a mikrovlákna, skontroluj zásoby chémie, doplň, čo chýba." + VOL)
 
 # T8: 23.-27.11
 m = po_pi(D(2026,11,23))
@@ -202,6 +236,8 @@ a(m[2],"09:00","12:00","Návštevy: Humenné", f"{PITCH}\n{OBH}")
 a(m[3],"09:00","10:30","Prevádzkovateľ elektrobusov v MI",
   "Zisti, kto bude prevádzkovať 9 nových elektrických autobusov mestskej dopravy (web mesta, vestník verejného obstarávania).\n"
   "Priprav pre neho ponuku na čistý interiér a exteriér.")
+a(m[3],"13:00","14:30","Náklady na jedno auto",
+  "Spočítaj skutočné náklady z prvých výjazdov: chémia na auto, palivo na výjazd, čas.\nPorovnaj s cenníkom a uprav, ak treba.")
 a(m[4],"08:00","12:00","Umývanie",UMY)
 a(m[4],"13:00","14:00","Týždenný prehľad",PREHLAD)
 a(D(2026,11,28),"09:00","10:00","Hľadanie nových firiem online (voliteľné)",
@@ -233,7 +269,7 @@ for mon, sob in [(D(2026,12,7), D(2026,12,12)), (D(2026,12,14), D(2026,12,19))]:
       "Ponuka po skúške do 2 dní. Ponúkni aj umývanie pred Vianocami, dopravcovia sú vyťažení.")
     a(m[4],"08:00","12:00","Umývanie",UMY)
     a(m[4],"13:00","14:00","Čísla a fotky pre investora",
-      "Zbieraj: zmluvy, počet umytých áut, tržby, najlepšie fotky pred a po, reakcie zákazníkov.")
+      "Zbieraj: zmluvy, počet umytých áut, tržby, najlepšie fotky pred a po, reakcie zákazníkov.\nPotom krátky týždenný prehľad: čo vyšlo, čo presunúť.")
 a(D(2026,12,12),"09:00","10:00","Referencie od zákazníkov (voliteľné)",
   "Poproś dispečerov o krátku vetu, ako sú spokojní. Zapíš si ju aj s menom firmy, pôjde do podkladov pre investora." + VOL)
 a(D(2026,12,19),"09:00","10:00","Príprava na vianočnú špičku (voliteľné)",
@@ -275,7 +311,7 @@ a(D(2027,1,27),"09:00","10:30","Rozhodnutie: externé štúdium",
   "Pred rozhodnutím sa spýtaj účtovníčky a zdravotnej poisťovne:\n"
   "- Ako denný študent do 26 rokov máš pravdepodobne zdravotné poistenie platené štátom.\n"
   "- Ako externý si ho zrejme platíš sám ako SZČO.\nSpočítaj, či sa to oplatí.")
-a(D(2027,1,28),"09:00","10:30","Faktúra za január a bilancia",
+a(D(2027,1,29),"13:00","14:30","Faktúra za január a bilancia",
   "Faktúry za január. Mesačná bilancia: tržby, náklady, hodiny, zisk na hodinu.")
 a(D(2027,1,16),"09:00","10:00","Fotky a referencie (voliteľné)",
   "Doplň fotoalbum pred a po, zapíš nové referencie od dispečerov." + VOL)
@@ -309,6 +345,16 @@ a(D(2027,2,13),"09:00","10:00","Fotoalbum pred a po (voliteľné)",
   "Vyber 10 najlepších dvojíc fotiek pred a po pre investora." + VOL)
 a(D(2027,2,20),"09:00","10:00","Nácvik prezentácie (voliteľné)",
   "Druhý nácvik, tentoraz s číslami naspamäť." + VOL)
+
+# Kontrola úhrad a týždenné prehľady v zime (z kontroly plánu)
+UHR = ("Skontroluj na účte, či zákazníci zaplatili faktúry.\n"
+ "- Kto nezaplatil: pošli priateľskú pripomienku e-mailom.\n- Po 7 dňoch po splatnosti zavolaj dispečerovi alebo majiteľovi.\n"
+ "- Zapíš si úhrady do tabuľky.")
+a(D(2026,12,15),"09:00","09:30","Kontrola úhrad faktúr",UHR)
+a(D(2027,1,14),"09:00","09:30","Kontrola úhrad faktúr",UHR)
+a(D(2027,2,11),"10:15","10:45","Kontrola úhrad faktúr",UHR)
+for d in [D(2027,1,8),D(2027,1,15),D(2027,1,22),D(2027,2,5),D(2027,2,12),D(2027,2,19)]:
+    a(d,"13:00","13:45","Týždenný prehľad",PREHLAD)
 
 # ---- kontroly ----
 def t2m(x):
