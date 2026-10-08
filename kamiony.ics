@@ -1,0 +1,2245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kamiony//Plan//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kamióny
+X-WR-TIMEZONE:Europe/Bratislava
+X-WR-CALDESC:Rozbeh mobilného umývania kamiónov. Pracovné bloky PO až 
+ PI\, sobota len voliteľné\, nedeľa voľno.
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3ebfa653-1cde-56b9-a477-d5e628218015@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261009T100000
+DTEND;TZID=Europe/Bratislava:20261009T120000
+SUMMARY:Nácvik predajného rozhovoru
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \n- Nauč sa 3 argumenty: platený čas vodiča (smernica 2002/15/ES)\, ž
+ iadny odklon na umyváreň\, čisté auto ako vizitka.\n- Odpovede na nám
+ ietky: Máme to vyriešené -> skúška zadarmo. Je to drahé -> porovnaj 
+ s cenou umyvárne (súprava 34 až 38 € bez DPH) plus čas vodiča.\n- N
+ acvič nahlas aspoň 5x\, nahraj sa na mobil.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nácvik predajného rozhovoru
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e6ac28-c097-53a7-bd59-3e13b40622c9@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261009T121500
+DTEND;TZID=Europe/Bratislava:20261009T134500
+SUMMARY:Jednostranová ponuka s cenníkom
+DESCRIPTION:Vytvor 1 stranu na vytlačenie (Canva alebo Word).\n- Kto si\, 
+ čo ponúkaš\, ako to funguje (u nich\, na ich umývacom mieste).\n- Cenn
+ ík: dodávka 10 €\, ťahač 12 €\, súprava 18 až 22 €\, interiér
+  +10 až 15 €\, ložná plocha +8 až 12 €.\n- Skúška 2 až 3 vozidi
+ el zadarmo.\n- Telefón\, e-mail. Vytlač 15 ks.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jednostranová ponuka s cenníkom
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbdc5e2-7841-5c48-894f-d8adff31d5a5@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261009T143000
+DTEND;TZID=Europe/Bratislava:20261009T160000
+SUMMARY:Dokončiť mapovanie a tabuľku firiem
+DESCRIPTION:Dokonči firmy skupiny A\, na ktoré nezostal čas: BOJKUN\, Pr
+ otrans SK\, IMP Transport\, Target Group\, Autodoprava Kočiš\, NESATRANS
+ \, TRIPARK\, Osif Peter\, PM EXPRES.\n- Pre každú: areál\, umývacie mi
+ esto a odlučovač áno/nie\, počet kamiónov a dodávok\, kontakt na dis
+ pečera.\n- Kontakty z webu firmy\, finstat.sk\, orsr.sk. Zapisuj do tabu
+ ľky v iCloud Drive/Kamiony.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dokončiť mapovanie a tabuľku firiem
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9d32abd-4632-5ecc-99d3-57ec301196b5@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261010T090000
+DTEND;TZID=Europe/Bratislava:20261010T120000
+SUMMARY:Obhliadka areálov autom (voliteľné)
+DESCRIPTION:Prejdi okolo 3 až 4 najbližších areálov zo zoznamu.\n- Poz
+ ri z cesty umývacie miesto\, koľko áut stojí.\n- Nevstupuj bez dovolen
+ ia\, len pozoruj.\n- Doplň do tabuľky.\n\nToto je doplnková úloha. Ak 
+ si s Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Obhliadka areálov autom (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23179704-a953-5526-81e9-3251f74bf49c@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261012T183000
+DTEND;TZID=Europe/Bratislava:20261012T200000
+SUMMARY:Plán týždňa a VZN mesta Michalovce
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.\n\nVečerný blok\, lebo cez deň máš Byt.\nNa michal
+ ovce.sk nájdi VZN o odpadových vodách a verejnom poriadku.\n- Zapíš\,
+  čo platí pre umývanie na súkromnom areáli s odlučovačom.\n- Pripra
+ v otázky na úrad.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa a VZN mesta Michalovce
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c6df0a-c193-54be-a784-de45130f01e2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261013T080000
+DTEND;TZID=Europe/Bratislava:20261013T093000
+SUMMARY:Telefonáty: úrad\, účtovníčka\, poisťovne
+DESCRIPTION:Ráno pred odchodom do Žiliny.\n- Okresný úrad Michalovce\, 
+ odbor starostlivosti o životné prostredie (štátna vodná správa): doh
+ odni stretnutie.\n- Nájdi 2 až 3 účtovníčky v MI\, dohodni konzultá
+ ciu.\n- Zavolaj 3 poisťovne: poistenie zodpovednosti za škodu\, ktoré v
+ ýslovne kryje škody na vozidlách zákazníka.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Telefonáty: úrad\, účtovníčka\, poisťovne
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:41939344-e7d9-598e-a227-5c7083ef1ba4@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261014T183000
+DTEND;TZID=Europe/Bratislava:20261014T200000
+SUMMARY:Poisťovne: žiadosti o ponuku e-mailom
+DESCRIPTION:Večerný blok\, lebo cez deň máš Byt.\nPošli e-mailom žia
+ dosť o ponuku 3 poisťovniam.\n- Činnosť: mobilné umývanie nákladný
+ ch vozidiel u zákazníka.\n- Krytie: škody na cudzích vozidlách (prevz
+ até veci)\, limit\, spoluúčasť\, ročná cena.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Poisťovne: žiadosti o ponuku e-mailom
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b42e62-b472-5693-94b8-3f943719fedc@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261019T090000
+DTEND;TZID=Europe/Bratislava:20261019T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15c7b57e-27fc-5b6e-bafb-c673d2f2b866@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261019T093000
+DTEND;TZID=Europe/Bratislava:20261019T110000
+SUMMARY:Telefonáty a dohadovanie návštev
+DESCRIPTION:Zavolaj firmám zo skupiny A a dohodni krátke stretnutie (10 m
+ in) na utorok až štvrtok.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Telefonáty a dohadovanie návštev
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a3dcf20-66cd-5d0b-a591-caf1da8c02c2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261019T130000
+DTEND;TZID=Europe/Bratislava:20261019T143000
+SUMMARY:Okresný úrad Michalovce
+DESCRIPTION:Otázky:\n- Potrebujem povolenie\, ak umývam na umývacom mies
+ te zákazníka s odlučovačom?\n- Kto zodpovedá za odpadovú vodu\, ja a
+ lebo prevádzkovateľ miesta?\n- Čo ak firma nemá odlučovač?\n- Aká c
+ hémia je povolená (Kärcher RM 812 / RM 81 do odlučovača)?\nZapíš me
+ no úradníka a odpovede.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Okresný úrad Michalovce
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:239129cb-4419-5497-9f0a-8777aad01d93@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261020T093000
+DTEND;TZID=Europe/Bratislava:20261020T113000
+SUMMARY:Návšteva firmy 1 a 2
+DESCRIPTION:Osobne u dispečera alebo majiteľa. Neprichádzaj pred 9:00.\n
+ - Otázka: Kto a kde vám dnes umýva autá?\n- Hlavná veta: Umyjem vaše
+  autá priamo u vás za pevnú cenu za kus\, takže vaši ľudia môžu ro
+ biť svoju prácu namiesto umývania.\n- Pri obhliadke zisti: voda (prípo
+ jka\, tlak)\, tlakový stroj a typ koncovky\, odlučovač ropných látok\
+ , osvetlenie\, kedy sú autá v depe\, koľko áut a akého typu.\n- Necha
+ j ponuku. Pri záujme dohodni skúšku na začiatok novembra.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návšteva firmy 1 a 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6c51e8a0-1008-543d-bc79-41e4dcafa887@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261020T130000
+DTEND;TZID=Europe/Bratislava:20261020T143000
+SUMMARY:Návšteva firmy 3
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \nPri obhliadke zisti: voda (prípojka\, tlak)\, tlakový stroj a typ konc
+ ovky\, odlučovač ropných látok\, osvetlenie\, kedy sú autá v depe\, 
+ koľko áut a akého typu.\n- Zapíš výsledok do tabuľky.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návšteva firmy 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b8fb560-8691-5e0d-a29c-d6d1555a5123@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261021T093000
+DTEND;TZID=Europe/Bratislava:20261021T113000
+SUMMARY:Návšteva firmy 4 a 5
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \nPri obhliadke zisti: voda (prípojka\, tlak)\, tlakový stroj a typ konc
+ ovky\, odlučovač ropných látok\, osvetlenie\, kedy sú autá v depe\, 
+ koľko áut a akého typu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návšteva firmy 4 a 5
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:549ac84b-f98f-5e9e-a9b5-05f2f256fa50@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261021T130000
+DTEND;TZID=Europe/Bratislava:20261021T143000
+SUMMARY:Konzultácia s účtovníčkou
+DESCRIPTION:Otázky:\n- Pod aký predmet živnosti patrí umývanie vozidie
+ l?\n- Paušálne výdavky alebo skutočné?\n- Odvody: sociálne prvý rok
+ \, zdravotné ako denný študent vs. externý.\n- DPH hranica a čo ak z
+ ákazník chce faktúru s DPH.\n- Koľko stojí jej služba mesačne.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Konzultácia s účtovníčkou
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:622bbd6f-d945-50f6-9b77-770e115706ff@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261022T093000
+DTEND;TZID=Europe/Bratislava:20261022T113000
+SUMMARY:Návšteva firmy 6 a 7
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \nPri obhliadke zisti: voda (prípojka\, tlak)\, tlakový stroj a typ konc
+ ovky\, odlučovač ropných látok\, osvetlenie\, kedy sú autá v depe\, 
+ koľko áut a akého typu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návšteva firmy 6 a 7
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c5a4283-0dc4-54ec-8067-5890eb421278@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261022T130000
+DTEND;TZID=Europe/Bratislava:20261022T143000
+SUMMARY:Obhliadka umývacieho miesta
+DESCRIPTION:U firmy so záujmom.\nPri obhliadke zisti: voda (prípojka\, tl
+ ak)\, tlakový stroj a typ koncovky\, odlučovač ropných látok\, osvetl
+ enie\, kedy sú autá v depe\, koľko áut a akého typu.\n- Odfoť umýva
+ cie miesto a koncovku stroja (kvôli penovému nadstavcu).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Obhliadka umývacieho miesta
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3edaa6a3-3cda-5552-bf57-b6167a9bf478@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261023T090000
+DTEND;TZID=Europe/Bratislava:20261023T113000
+SUMMARY:Vzor zmluvy
+DESCRIPTION:Priprav vzor zmluvy o poskytovaní služieb:\n- Rozsah (čo sa 
+ umýva)\, cenník za kus.\n- Kto dodáva vodu a stroj (zákazník) a kto c
+ hémiu a náradie (ty).\n- Odpadová voda do odlučovača zákazníka.\n- 
+ Zodpovednosť za škody\, odkaz na poistenie.\n- Fakturácia mesačne\, sp
+ latnosť 14 dní.\n- Výpovedná lehota 1 mesiac.\n- Bezpečnosť práce v
+  areáli.\nDaj si ju skontrolovať.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vzor zmluvy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:761d9535-a4fe-5c56-b5e6-e442463c5705@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261023T130000
+DTEND;TZID=Europe/Bratislava:20261023T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1eaa583d-a7f2-5f25-abe0-41c8a75ab7f7@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261024T090000
+DTEND;TZID=Europe/Bratislava:20261024T103000
+SUMMARY:Fotky a jednoduchá prezentácia (voliteľné)
+DESCRIPTION:Priprav si jednoduchú vizitku a stránku na Facebooku alebo In
+ stagrame.\n- Názov\, telefón\, čo robíš\, kde pôsobíš.\n- 3 až 5 
+ fotiek\, aj keď zatiaľ len z obhliadok.\n\nToto je doplnková úloha. Ak
+  si s Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fotky a jednoduchá prezentácia (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ced8e03-2dec-5f28-9d7e-d3ff009e32cc@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261026T090000
+DTEND;TZID=Europe/Bratislava:20261026T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9fe60f8-9502-5e2e-b2cc-3b8d7bfb79c5@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261026T093000
+DTEND;TZID=Europe/Bratislava:20261026T113000
+SUMMARY:Posledné návštevy firiem
+DESCRIPTION:Cieľ: 3 firmy so súhlasom na skúšku.\nHlavná veta: Umyjem 
+ vaše autá priamo u vás za pevnú cenu za kus\, takže vaši ľudia mô
+ žu robiť svoju prácu namiesto umývania.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Posledné návštevy firiem
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c045c151-1ece-53f3-8de6-00452d38db01@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261027T090000
+DTEND;TZID=Europe/Bratislava:20261027T103000
+SUMMARY:Ohlásenie živnosti
+DESCRIPTION:Priprav ohlásenie živnosti cez slovensko.sk (občiansky s či
+ pom) alebo na jednotnom kontaktnom mieste Okresného úradu MI.\n- Predmet
+  podnikania podľa rady účtovníčky.\n- Podaj hneď\, ako je isté\, ž
+ e peniaze prídu. Živnosť musíš mať pred prvou platenou prácou.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ohlásenie živnosti
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:884c8a51-2cd9-52a5-b06e-36b32b93b0ef@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261027T130000
+DTEND;TZID=Europe/Bratislava:20261027T143000
+SUMMARY:Doplnková návšteva firmy
+DESCRIPTION:Ak ešte nemáš 3 skúšky.\nHlavná veta: Umyjem vaše autá 
+ priamo u vás za pevnú cenu za kus\, takže vaši ľudia môžu robiť sv
+ oju prácu namiesto umývania.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Doplnková návšteva firmy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f67ec5-a67e-5618-b2d8-8d401affba6f@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261028T090000
+DTEND;TZID=Europe/Bratislava:20261028T110000
+SUMMARY:Poistenie\, fakturácia\, účet
+DESCRIPTION:- Vyber poistenie (krytie škôd na vozidlách zákazníka!)\, 
+ začiatok najneskôr k prvej skúške.\n- Vyber fakturačnú aplikáciu (S
+ uperFaktúra\, iDoklad)\, nastav šablónu.\n- Založ osobitný bankový 
+ účet na podnikanie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Poistenie\, fakturácia\, účet
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3ab6d1-2bee-5e4c-9e3b-a37a23dc8308@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261029T090000
+DTEND;TZID=Europe/Bratislava:20261029T103000
+SUMMARY:Objednať vizitky\, tabule\, tričko
+DESCRIPTION:- Vizitky 100 ks.\n- Magnetické tabule na Octaviu s názvom a 
+ telefónom.\n- Pracovné tričko alebo mikina s nápisom.\n- Dodanie zvyč
+ ajne do týždňa. Rozpočet 60 až 150 €.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Objednať vizitky\, tabule\, tričko
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:09e6fbe8-ede8-5c4b-bd2b-647a098136f5@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261030T090000
+DTEND;TZID=Europe/Bratislava:20261030T103000
+SUMMARY:Potvrdiť termíny skúšok
+DESCRIPTION:Zavolaj 3 firmám a potvrď presný deň a hodinu skúšky.\n- 
+ Spýtaj sa\, ktoré 2 až 3 autá budú k dispozícii.\n- Pošli SMS alebo
+  e-mail s potvrdením.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Potvrdiť termíny skúšok
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e5dbacc8-4d0c-5e3e-9cb7-db927d114eb2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261030T130000
+DTEND;TZID=Europe/Bratislava:20261030T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2153f227-2e23-50f2-ba72-844cc19b75ea@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261031T090000
+DTEND;TZID=Europe/Bratislava:20261031T100000
+SUMMARY:Kontrola tabuľky firiem (voliteľné)
+DESCRIPTION:Prejdi tabuľku\, doplň chýbajúce kontakty a stavy. Označ f
+ irmy\, ktoré treba ešte raz osloviť.\n\nToto je doplnková úloha. Ak s
+ i s Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kontrola tabuľky firiem (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9716f9e-fc43-5df7-abd3-ef9723cfca80@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261102T090000
+DTEND;TZID=Europe/Bratislava:20261102T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e07588d9-6508-5f76-8c38-e81714602a07@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261102T093000
+DTEND;TZID=Europe/Bratislava:20261102T113000
+SUMMARY:Nákup chémie a náradia
+DESCRIPTION:Keď prídu peniaze\, objednaj (minimum okolo 760 €):\n- Akt
+ ívna pena Tenzi Truck Clean 20 l\, odmasťovač Kärcher RM 81 20 l\, či
+ stič diskov a skiel.\n- Penový nadstavec podľa koncovky zákazníka\, t
+ eleskopické kefy\, kefa na disky.\n- Rebrík alebo plošina\, mikrovlákn
+ a\, vedrá.\n- Gumáky\, nepremokavé oblečenie\, rukavice\, okuliare.\nA
+ ktivuj poistenie. Ak peniaze ešte nie sú\, posuň skúšky o pár dní.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nákup chémie a náradia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5757b9-1892-5b2c-b4d5-f9113a040bfc@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261103T100000
+DTEND;TZID=Europe/Bratislava:20261103T120000
+SUMMARY:Príprava výbavy
+DESCRIPTION:- Skontroluj\, čo prišlo.\n- Priprav box s chémiou a nárad
+ ím do auta alebo prívesu.\n- Napíš si checklist\, čo brať na každý
+  výjazd.\n- Odmeraj si riedenie chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Príprava výbavy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1b05d610-4a38-5376-8f3f-6b8a1930e34d@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261104T080000
+DTEND;TZID=Europe/Bratislava:20261104T120000
+SUMMARY:Skúška u firmy 1
+DESCRIPTION:Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu\, 
+ odmasťovač\, čistič diskov\, penový nadstavec\, kefy\, rebrík\, mikr
+ ovlákna\, vedrá\, ochranné pomôcky.\n- Pred začatím: fotky každého
+  auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas n
+ a každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50
+  zima\, penový nadstavec 1:5 leto / 1:3 zima\, oplach 120 až 150 bar.\n-
+  Po umytí fotky po\, podpis dispečera.\n- Prestávka 15 min v polovici.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skúška u firmy 1
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:41168dff-05ae-5c0c-9260-09111efdb613@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261105T090000
+DTEND;TZID=Europe/Bratislava:20261105T103000
+SUMMARY:Ponuka pre firmu 1
+DESCRIPTION:- Spracuj fotky pred a po.\n- Zapíš namerané časy.\n- Pošl
+ i ponuku s cenou za kus a fotkami do 2 dní od skúšky.\n- Zavolaj dispe
+ čerovi\, či boli spokojní.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ponuka pre firmu 1
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e9f5717-9ccc-50ba-bb56-71bc5c702435@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261105T130000
+DTEND;TZID=Europe/Bratislava:20261105T140000
+SUMMARY:Administratíva
+DESCRIPTION:- Zapíš náklady na nákup\, bločky a faktúry odlož pre ú
+ čtovníčku.\n- Skontroluj\, či je živnosť zapísaná (zrsr.sk).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Administratíva
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc577efe-d0d4-59e4-b256-ccc6941ecd84@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261106T080000
+DTEND;TZID=Europe/Bratislava:20261106T120000
+SUMMARY:Skúška u firmy 2
+DESCRIPTION:Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu\, 
+ odmasťovač\, čistič diskov\, penový nadstavec\, kefy\, rebrík\, mikr
+ ovlákna\, vedrá\, ochranné pomôcky.\n- Pred začatím: fotky každého
+  auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas n
+ a každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50
+  zima\, penový nadstavec 1:5 leto / 1:3 zima\, oplach 120 až 150 bar.\n-
+  Po umytí fotky po\, podpis dispečera.\n- Prestávka 15 min v polovici.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skúška u firmy 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4b7b81-5228-5e49-840e-777dfe28987a@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261106T130000
+DTEND;TZID=Europe/Bratislava:20261106T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a06676d1-ac71-570a-baae-f6dcf2d7301e@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261107T090000
+DTEND;TZID=Europe/Bratislava:20261107T100000
+SUMMARY:Údržba a kontrola výbavy (voliteľné)
+DESCRIPTION:Umy a usuš kefy a mikrovlákna\, skontroluj zásoby chémie\, 
+ doplň\, čo chýba.\n\nToto je doplnková úloha. Ak si s Baškou alebo s
+ i unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Údržba a kontrola výbavy (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9cfb9639-ea90-5e07-8341-9f06b21bb318@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261109T090000
+DTEND;TZID=Europe/Bratislava:20261109T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df1c25ed-9ccd-5db5-a86c-2ab29c75813e@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261109T093000
+DTEND;TZID=Europe/Bratislava:20261109T110000
+SUMMARY:Ponuka pre firmu 2
+DESCRIPTION:Fotky\, namerané časy\, ponuka s cenou za kus do 2 dní od sk
+ úšky.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ponuka pre firmu 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0cde4db-06d4-5033-b740-c8fc0e15b15a@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261110T080000
+DTEND;TZID=Europe/Bratislava:20261110T120000
+SUMMARY:Skúška u firmy 3
+DESCRIPTION:Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu\, 
+ odmasťovač\, čistič diskov\, penový nadstavec\, kefy\, rebrík\, mikr
+ ovlákna\, vedrá\, ochranné pomôcky.\n- Pred začatím: fotky každého
+  auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas n
+ a každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50
+  zima\, penový nadstavec 1:5 leto / 1:3 zima\, oplach 120 až 150 bar.\n-
+  Po umytí fotky po\, podpis dispečera.\n- Prestávka 15 min v polovici.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skúška u firmy 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9486fd37-3628-5f63-a266-6f7ccfc69248@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261111T090000
+DTEND;TZID=Europe/Bratislava:20261111T110000
+SUMMARY:Úprava cenníka
+DESCRIPTION:Vzorec: cena za kus = hodinová sadzba (20 €) × čas + chém
+ ia + doprava.\n- Dosaď namerané časy zo skúšok.\n- Minimálne 5 vozid
+ iel na výjazd alebo paušál za výjazd okolo 15 €.\n- Extrémne zneči
+ stené +30 %.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Úprava cenníka
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:850134bb-4610-54df-8d7a-4eaa773d6934@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261112T093000
+DTEND;TZID=Europe/Bratislava:20261112T110000
+SUMMARY:Stretnutie: zmluva s firmou 1
+DESCRIPTION:- Vezmi 2 vytlačené zmluvy.\n- Dohodni pravidelný deň umýv
+ ania\, zoznam vozidiel\, kontakt na dispečera.\n- Podpis.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stretnutie: zmluva s firmou 1
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:05ea7df3-b96e-54a8-880a-087c24ae155a@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261112T130000
+DTEND;TZID=Europe/Bratislava:20261112T143000
+SUMMARY:Ponuka pre firmu 3
+DESCRIPTION:Ponuka po skúške\, aktualizuj tabuľku firiem.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ponuka pre firmu 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efd0882e-001c-53b2-b688-0dd7d283d7a2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261113T080000
+DTEND;TZID=Europe/Bratislava:20261113T120000
+SUMMARY:Umývanie: prvý platený výjazd
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.\nAk ešte nemáš zmluvu\, použi čas na follow-up telefoná
+ ty.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie: prvý platený výjazd
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5501c4-6f5a-570f-9349-abf7a861d40d@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261113T130000
+DTEND;TZID=Europe/Bratislava:20261113T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f7cbf875-c754-58f2-b33d-de11fff65c8c@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261114T090000
+DTEND;TZID=Europe/Bratislava:20261114T100000
+SUMMARY:Fotky pred a po: archív (voliteľné)
+DESCRIPTION:Roztrieď fotky z umývania do priečinkov podľa firmy a dátu
+ mu. Vyber najlepšie dvojice pred/po pre ponuky a investora.\n\nToto je do
+ plnková úloha. Ak si s Baškou alebo si unavený\, pokojne ju vynechaj a
+ lebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fotky pred a po: archív (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:466b3ad7-bb7c-50fe-8a4d-330d37760b7c@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261116T090000
+DTEND;TZID=Europe/Bratislava:20261116T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.\nUtorok 17. 11. je sviatok\, voľno.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f85470a-a1d9-5be7-9412-851cc9c12acb@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261116T093000
+DTEND;TZID=Europe/Bratislava:20261116T110000
+SUMMARY:Follow-up firmy 2 a 3
+DESCRIPTION:Zavolaj\, ako sa rozhodli. Pri súhlase dohodni stretnutie na p
+ odpis zmluvy.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up firmy 2 a 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb08636-6198-5207-8e8e-892d9dd30bbb@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261118T093000
+DTEND;TZID=Europe/Bratislava:20261118T110000
+SUMMARY:Stretnutie: zmluva s firmou 2
+DESCRIPTION:Vezmi zmluvy\, dohodni pravidelný deň a zoznam vozidiel.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stretnutie: zmluva s firmou 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce97f365-8559-5da1-b956-ad63c39a5216@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261119T090000
+DTEND;TZID=Europe/Bratislava:20261119T103000
+SUMMARY:Náklady na jedno auto
+DESCRIPTION:Spočítaj skutočné náklady: chémia na auto\, palivo na vý
+ jazd\, čas.\nPorovnaj s cenníkom a uprav\, ak treba.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Náklady na jedno auto
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf85dbdd-9fdb-5e0d-b7c1-8fbc8b36c153@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261120T080000
+DTEND;TZID=Europe/Bratislava:20261120T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51dbc324-1fad-5cf4-a1aa-dfe01cbb5457@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261120T130000
+DTEND;TZID=Europe/Bratislava:20261120T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3e8e12-5a53-5c81-9f5f-033d7325cfe1@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261121T090000
+DTEND;TZID=Europe/Bratislava:20261121T100000
+SUMMARY:Čítanie: chémia a technika (voliteľné)
+DESCRIPTION:Prečítaj si technické listy k chémii\, ktorú používaš\,
+  a pozri 2 až 3 videá o umývaní kamiónov. Zapíš\, čo vyskúšaš.\
+ n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený\, pokojne 
+ ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Čítanie: chémia a technika (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e34170ec-25b8-57dc-b778-2f4fcb924537@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261123T090000
+DTEND;TZID=Europe/Bratislava:20261123T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39063db1-76ad-51d2-ac10-78b44907780e@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261123T093000
+DTEND;TZID=Europe/Bratislava:20261123T113000
+SUMMARY:Nové firmy do 40 km
+DESCRIPTION:Nájdi firmy v Trebišove\, Sobranciach a Humennom (dopravcovia
+ \, stavebné firmy\, kuriéri\, autobusy).\nDoplň do tabuľky\, dohodni n
+ ávštevy na utorok a stredu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nové firmy do 40 km
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:99f3fc4f-a145-52c0-9e38-961db26a71c0@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261124T090000
+DTEND;TZID=Europe/Bratislava:20261124T120000
+SUMMARY:Návštevy: Trebišov a Sobrance
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \nPri obhliadke zisti: voda (prípojka\, tlak)\, tlakový stroj a typ konc
+ ovky\, odlučovač ropných látok\, osvetlenie\, kedy sú autá v depe\, 
+ koľko áut a akého typu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návštevy: Trebišov a Sobrance
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc69eb1-e4c2-54f3-af61-df3c5a0a91d6@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261125T090000
+DTEND;TZID=Europe/Bratislava:20261125T120000
+SUMMARY:Návštevy: Humenné
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+ \nPri obhliadke zisti: voda (prípojka\, tlak)\, tlakový stroj a typ konc
+ ovky\, odlučovač ropných látok\, osvetlenie\, kedy sú autá v depe\, 
+ koľko áut a akého typu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návštevy: Humenné
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6faca6b0-ed18-59db-bec6-1b41d662fc56@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261126T090000
+DTEND;TZID=Europe/Bratislava:20261126T103000
+SUMMARY:Prevádzkovateľ elektrobusov v MI
+DESCRIPTION:Zisti\, kto bude prevádzkovať 9 nových elektrických autobus
+ ov mestskej dopravy (web mesta\, vestník verejného obstarávania).\nPrip
+ rav pre neho ponuku na čistý interiér a exteriér.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prevádzkovateľ elektrobusov v MI
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d0f948-b115-5691-bd89-2a8f0f7638d2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261127T080000
+DTEND;TZID=Europe/Bratislava:20261127T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca414d70-4569-5bed-a426-ce6fbceac079@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261127T130000
+DTEND;TZID=Europe/Bratislava:20261127T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:861fabcf-c93c-5d3d-8cc9-ec8d4e095962@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261128T090000
+DTEND;TZID=Europe/Bratislava:20261128T100000
+SUMMARY:Hľadanie nových firiem online (voliteľné)
+DESCRIPTION:Pozri finstat.sk a mapy: dopravcovia a firmy s vozovým parkom 
+ do 40 km od Michaloviec. Doplň 5 nových do tabuľky.\n\nToto je doplnkov
+ á úloha. Ak si s Baškou alebo si unavený\, pokojne ju vynechaj alebo p
+ resuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hľadanie nových firiem online (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa547c59-f6cf-539d-8645-ecd7137673ed@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261130T090000
+DTEND;TZID=Europe/Bratislava:20261130T103000
+SUMMARY:Prvá mesačná faktúra
+DESCRIPTION:- Vystav faktúru každému zákazníkovi za november so zoznam
+ om vozidiel (ŠPZ\, dátum\, cena).\n- Splatnosť 14 dní.\n- Pošli e-mai
+ lom\, kópiu odlož pre účtovníčku.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prvá mesačná faktúra
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d61d5a6-2cf6-5795-84af-f7d9d1832ac0@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261130T104500
+DTEND;TZID=Europe/Bratislava:20261130T111500
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a01a05-5013-5b1f-9f4d-ca47046e53b0@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261201T093000
+DTEND;TZID=Europe/Bratislava:20261201T103000
+SUMMARY:Požiadať o odporúčanie
+DESCRIPTION:Spýtaj sa spokojného zákazníka\, či pozná inú firmu\, kt
+ orej by ťa odporučil. Ideálne poprosiť o telefonát alebo kontakt.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Požiadať o odporúčanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d38d1bd0-3157-5b2a-970c-9d12794c2448@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261202T090000
+DTEND;TZID=Europe/Bratislava:20261202T110000
+SUMMARY:Mesačná bilancia
+DESCRIPTION:Tržby\, náklady (chémia\, palivo\, poistenie)\, hodiny\, zis
+ k na hodinu.\nZapíš do tabuľky\, budú sa hodiť pre investora.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mesačná bilancia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd727d41-5d17-515d-835f-a1a5df7d74f5@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261203T093000
+DTEND;TZID=Europe/Bratislava:20261203T113000
+SUMMARY:Návštevy nových firiem
+DESCRIPTION:Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu z
+ a kus\, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Návštevy nových firiem
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7538f8a8-a123-5610-814c-a986135504e1@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261204T080000
+DTEND;TZID=Europe/Bratislava:20261204T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f874decc-60ba-572d-a5e3-1de4532ba3b0@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261204T130000
+DTEND;TZID=Europe/Bratislava:20261204T140000
+SUMMARY:Týždenný prehľad
+DESCRIPTION:Týždenný prehľad a administratíva.\n- Čo vyšlo\, čo nie
+ .\n- Čísla: počet návštev\, skúšok\, umytých áut\, tržby\, nákl
+ ady.\n- Doplň tabuľku firiem\, odpíš na e-maily\, odlož doklady.\n- P
+ označ\, čo presunúť na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Týždenný prehľad
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eeabe399-db0c-5d6a-9e04-71597c2a0bf3@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261205T090000
+DTEND;TZID=Europe/Bratislava:20261205T100000
+SUMMARY:Údržba výbavy a zásoby (voliteľné)
+DESCRIPTION:Skontroluj kefy\, hadice a nadstavce\, doplň chémiu na ďalš
+ í mesiac.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený
+ \, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Údržba výbavy a zásoby (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c694b6b-3284-52eb-9f1a-fb0bad4ee2a2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261207T090000
+DTEND;TZID=Europe/Bratislava:20261207T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25406b6b-508d-5ce0-89cc-f50d084815d2@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261207T093000
+DTEND;TZID=Europe/Bratislava:20261207T110000
+SUMMARY:Telefonáty: nové firmy z odporúčaní
+DESCRIPTION:Dohodni skúšky u 2 nových firiem.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Telefonáty: nové firmy z odporúčaní
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efd5902c-709a-58ef-81e7-e5637b227102@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261209T080000
+DTEND;TZID=Europe/Bratislava:20261209T120000
+SUMMARY:Skúška u novej firmy
+DESCRIPTION:Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu\, 
+ odmasťovač\, čistič diskov\, penový nadstavec\, kefy\, rebrík\, mikr
+ ovlákna\, vedrá\, ochranné pomôcky.\n- Pred začatím: fotky každého
+  auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas n
+ a každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50
+  zima\, penový nadstavec 1:5 leto / 1:3 zima\, oplach 120 až 150 bar.\n-
+  Po umytí fotky po\, podpis dispečera.\n- Prestávka 15 min v polovici.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skúška u novej firmy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb6e892b-1ae0-532b-8a7d-9d7271d7c965@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261210T090000
+DTEND;TZID=Europe/Bratislava:20261210T103000
+SUMMARY:Ponuka a follow-up
+DESCRIPTION:Ponuka po skúške do 2 dní. Ponúkni aj umývanie pred Vianoc
+ ami\, dopravcovia sú vyťažení.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ponuka a follow-up
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d53cce-7309-5082-a08b-381e2aee0d4b@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261211T080000
+DTEND;TZID=Europe/Bratislava:20261211T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c3c2768-95fa-56f4-8c65-4d14f80ea3cf@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261211T130000
+DTEND;TZID=Europe/Bratislava:20261211T140000
+SUMMARY:Čísla a fotky pre investora
+DESCRIPTION:Zbieraj: zmluvy\, počet umytých áut\, tržby\, najlepšie fo
+ tky pred a po\, reakcie zákazníkov.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Čísla a fotky pre investora
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f82a186-67b9-578c-b6a4-ba00ffdbe5ba@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261212T090000
+DTEND;TZID=Europe/Bratislava:20261212T100000
+SUMMARY:Referencie od zákazníkov (voliteľné)
+DESCRIPTION:Poproś dispečerov o krátku vetu\, ako sú spokojní. Zapíš
+  si ju aj s menom firmy\, pôjde do podkladov pre investora.\n\nToto je do
+ plnková úloha. Ak si s Baškou alebo si unavený\, pokojne ju vynechaj a
+ lebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Referencie od zákazníkov (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e963984f-24d0-54b5-81b0-9dfaf4af81a8@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261214T090000
+DTEND;TZID=Europe/Bratislava:20261214T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:579338da-af1e-551c-8857-a4a035f61759@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261214T093000
+DTEND;TZID=Europe/Bratislava:20261214T110000
+SUMMARY:Telefonáty: nové firmy z odporúčaní
+DESCRIPTION:Dohodni skúšky u 2 nových firiem.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Telefonáty: nové firmy z odporúčaní
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c498217-bc46-52ac-971c-33fd09476935@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261216T080000
+DTEND;TZID=Europe/Bratislava:20261216T120000
+SUMMARY:Skúška u novej firmy
+DESCRIPTION:Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu\, 
+ odmasťovač\, čistič diskov\, penový nadstavec\, kefy\, rebrík\, mikr
+ ovlákna\, vedrá\, ochranné pomôcky.\n- Pred začatím: fotky každého
+  auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas n
+ a každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50
+  zima\, penový nadstavec 1:5 leto / 1:3 zima\, oplach 120 až 150 bar.\n-
+  Po umytí fotky po\, podpis dispečera.\n- Prestávka 15 min v polovici.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skúška u novej firmy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1b70d3-a213-5a77-9a84-f1ad52a049b4@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261217T090000
+DTEND;TZID=Europe/Bratislava:20261217T103000
+SUMMARY:Ponuka a follow-up
+DESCRIPTION:Ponuka po skúške do 2 dní. Ponúkni aj umývanie pred Vianoc
+ ami\, dopravcovia sú vyťažení.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ponuka a follow-up
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5840d9ea-0c7c-59bb-b709-2b034fe89855@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261218T080000
+DTEND;TZID=Europe/Bratislava:20261218T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4c5400-a905-50a6-9be8-5e91dd879d51@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261218T130000
+DTEND;TZID=Europe/Bratislava:20261218T140000
+SUMMARY:Čísla a fotky pre investora
+DESCRIPTION:Zbieraj: zmluvy\, počet umytých áut\, tržby\, najlepšie fo
+ tky pred a po\, reakcie zákazníkov.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Čísla a fotky pre investora
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e866fad-ef42-59f9-ac84-e80d02927414@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261219T090000
+DTEND;TZID=Europe/Bratislava:20261219T100000
+SUMMARY:Príprava na vianočnú špičku (voliteľné)
+DESCRIPTION:Skontroluj zásoby chémie a stav výbavy pred týždňom 21. 1
+ 2. Dohodni si\, ktoré autá sa umyjú 22. 12.\n\nToto je doplnková úloh
+ a. Ak si s Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Príprava na vianočnú špičku (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4b5bea-081f-525a-871e-6e77e6d4692e@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261221T090000
+DTEND;TZID=Europe/Bratislava:20261221T093000
+SUMMARY:Plán týždňa (sviatky)
+DESCRIPTION:Tento týždeň len stáli zákazníci. 24. až 26. 12. voľno.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa (sviatky)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84e59b86-e94c-5027-9512-29777529ee06@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261222T080000
+DTEND;TZID=Europe/Bratislava:20261222T120000
+SUMMARY:Umývanie pred Vianocami
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie pred Vianocami
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61e5e93b-6af8-5f5e-9743-9925a2028583@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261223T090000
+DTEND;TZID=Europe/Bratislava:20261223T100000
+SUMMARY:Vianočné poďakovanie zákazníkom
+DESCRIPTION:Pošli krátku SMS alebo e-mail s poďakovaním a želaním. Ud
+ rží ťa to v hlave u dispečerov.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vianočné poďakovanie zákazníkom
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed3db7b-62ca-5dd0-b0a1-7a4f13d5436f@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261228T090000
+DTEND;TZID=Europe/Bratislava:20261228T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e09b379-b595-5a43-9a7d-de2080e21f1d@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261229T080000
+DTEND;TZID=Europe/Bratislava:20261229T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:594f388b-8156-5d3c-bc5f-0843b2348f57@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261230T090000
+DTEND;TZID=Europe/Bratislava:20261230T103000
+SUMMARY:Faktúra za december
+DESCRIPTION:Faktúry za december so zoznamami vozidiel. Pošli e-mailom.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Faktúra za december
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7009943-ef23-533b-80bc-301ccc2c9775@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20261231T100000
+DTEND;TZID=Europe/Bratislava:20261231T113000
+SUMMARY:Ročné podklady a ciele na január
+DESCRIPTION:- Všetky doklady pre účtovníčku do jednej zložky.\n- Pozr
+ i sa späť na plán\, čo vyšlo.\n- Cieľ na január: tretí pravidelný
+  zákazník\, udržať existujúcich počas skúšok.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ročné podklady a ciele na január
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:459c0b61-ef1e-523d-9a42-988a50251947@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270102T100000
+DTEND;TZID=Europe/Bratislava:20270102T110000
+SUMMARY:Ciele na rok 2027 (voliteľné)
+DESCRIPTION:Napíš si 3 ciele na rok: počet zákazníkov\, mesačné trž
+ by\, technika. Krátko\, na jednu stranu.\n\nToto je doplnková úloha. Ak
+  si s Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciele na rok 2027 (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d85765-ea1c-5478-8190-e671cd41a409@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270104T090000
+DTEND;TZID=Europe/Bratislava:20270104T100000
+SUMMARY:Termíny skúšok CEVRO do kalendára
+DESCRIPTION:Zapíš si termíny skúšok a umývanie plánuj mimo nich.\nPo
+ čas skúškového len stáli zákazníci\, nové firmy neotváraj.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Termíny skúšok CEVRO do kalendára
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84b130b9-238b-5945-b973-4eefe0c795be@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270104T101500
+DTEND;TZID=Europe/Bratislava:20270104T110000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e54e20e2-9982-541f-b29b-460a3eb12822@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270107T093000
+DTEND;TZID=Europe/Bratislava:20270107T110000
+SUMMARY:Tretí zákazník: follow-up
+DESCRIPTION:Zavolaj firmám po decembrových skúškach. Cieľ: tretia zmlu
+ va do 31. 1.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tretí zákazník: follow-up
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6523f187-5979-58f0-8301-41f8c88d0d49@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270108T080000
+DTEND;TZID=Europe/Bratislava:20270108T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f39867a-0ee0-55fe-b01a-35d1dc9e7184@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270109T090000
+DTEND;TZID=Europe/Bratislava:20270109T100000
+SUMMARY:Údržba výbavy (voliteľné)
+DESCRIPTION:Zimná kontrola: hadice\, nadstavce\, riedenie chémie 1:50 a 1
+ :3 na zimu.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unaven
+ ý\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Údržba výbavy (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a7bba39c-822a-5922-8784-8edc22b6c72b@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270111T090000
+DTEND;TZID=Europe/Bratislava:20270111T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2054168-65ef-52e2-a992-700cb992522a@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270115T080000
+DTEND;TZID=Europe/Bratislava:20270115T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c153a1-7a77-59e7-8cef-a68d49f66c20@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270116T090000
+DTEND;TZID=Europe/Bratislava:20270116T100000
+SUMMARY:Fotky a referencie (voliteľné)
+DESCRIPTION:Doplň fotoalbum pred a po\, zapíš nové referencie od dispe
+ čerov.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený\, 
+ pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fotky a referencie (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7b00d5-229b-577c-832f-f47420721641@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270118T090000
+DTEND;TZID=Europe/Bratislava:20270118T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db6710a7-c074-50a4-b07d-a7237a11262a@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270120T093000
+DTEND;TZID=Europe/Bratislava:20270120T110000
+SUMMARY:Tretí zákazník: podpis zmluvy
+DESCRIPTION:Ak firma súhlasí\, podpis zmluvy\, pravidelný termín\, zozn
+ am vozidiel.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tretí zákazník: podpis zmluvy
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d7f59be3-a386-5de5-b4d6-d83f7279e6b4@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270122T080000
+DTEND;TZID=Europe/Bratislava:20270122T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4bc8605-a333-5669-8619-3ff2bc51e958@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270123T090000
+DTEND;TZID=Europe/Bratislava:20270123T100000
+SUMMARY:Hľadanie nových firiem (voliteľné)
+DESCRIPTION:Priprav si zoznam 5 firiem na oslovenie vo februári\, po skú
+ škovom období.\n\nToto je doplnková úloha. Ak si s Baškou alebo si un
+ avený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hľadanie nových firiem (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e308133-40d1-5a2c-bbc6-8cbd94f96969@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270125T090000
+DTEND;TZID=Europe/Bratislava:20270125T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:563128ab-1d6c-5c5c-af73-f3cea854e0c6@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270127T090000
+DTEND;TZID=Europe/Bratislava:20270127T103000
+SUMMARY:Rozhodnutie: externé štúdium
+DESCRIPTION:Pred rozhodnutím sa spýtaj účtovníčky a zdravotnej poisť
+ ovne:\n- Ako denný študent do 26 rokov máš pravdepodobne zdravotné po
+ istenie platené štátom.\n- Ako externý si ho zrejme platíš sám ako 
+ SZČO.\nSpočítaj\, či sa to oplatí.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rozhodnutie: externé štúdium
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4c84fb-1411-549d-a4c7-dd3537ce2fb7@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270128T090000
+DTEND;TZID=Europe/Bratislava:20270128T103000
+SUMMARY:Faktúra za január a bilancia
+DESCRIPTION:Faktúry za január. Mesačná bilancia: tržby\, náklady\, ho
+ diny\, zisk na hodinu.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Faktúra za január a bilancia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f56e63a6-6b4f-5477-b41e-6d3988d4b3e9@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270129T080000
+DTEND;TZID=Europe/Bratislava:20270129T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f07af7b-a219-542e-ab82-2402b6a4d815@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270130T090000
+DTEND;TZID=Europe/Bratislava:20270130T100000
+SUMMARY:Údržba výbavy (voliteľné)
+DESCRIPTION:Kontrola a doplnenie chémie\, príprava na február.\n\nToto j
+ e doplnková úloha. Ak si s Baškou alebo si unavený\, pokojne ju vynech
+ aj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Údržba výbavy (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb7ff48-3c16-5a14-8db5-be6266f9c379@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270201T090000
+DTEND;TZID=Europe/Bratislava:20270201T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7aa51f1-ab2e-57e5-b69e-2ff3bbef9dca@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270203T090000
+DTEND;TZID=Europe/Bratislava:20270203T113000
+SUMMARY:Podklady pre investora (1/2)
+DESCRIPTION:Jedna strana:\n- Čo robíš a pre koho\, zmluvy so zákazníkm
+ i.\n- Mesačné tržby december a január\, náklady\, zisk.\n- Fotky pred
+  a po.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Podklady pre investora (1/2)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97c0ecdb-e99c-56e9-ab4b-4bdcb13a3f47@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270205T080000
+DTEND;TZID=Europe/Bratislava:20270205T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff55eb6-51fb-58b4-b5aa-97fb83b8a4a3@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270206T090000
+DTEND;TZID=Europe/Bratislava:20270206T100000
+SUMMARY:Nácvik prezentácie pre investora (voliteľné)
+DESCRIPTION:Povedz nahlas\, čo robíš\, koľko zarábaš a čo potrebuje
+ š. Do 3 minút. Nahraj sa na mobil.\n\nToto je doplnková úloha. Ak si s
+  Baškou alebo si unavený\, pokojne ju vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nácvik prezentácie pre investora (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb675701-faaf-5755-8ca6-70313e8f3b8b@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270208T090000
+DTEND;TZID=Europe/Bratislava:20270208T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcdaa8c-00e3-5ecf-bac8-a8e911cfe8dd@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270210T090000
+DTEND;TZID=Europe/Bratislava:20270210T113000
+SUMMARY:Podklady pre investora (2/2)
+DESCRIPTION:- Čo kúpiť: úsporná mobilná výbava 10 až 15 tis. € (p
+ oužitý Kärcher HDS 1000 De a vozík alebo staršia dodávka).\n- Koľko
+  nových zákazníkov to umožní (firmy bez umývacieho miesta).\n- Čo p
+ onúkaš investorovi: podiel alebo pôžička.\nNacvič prezentáciu nahla
+ s.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Podklady pre investora (2/2)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61321e4a-b2fd-5425-b784-dc53f06da857@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270211T090000
+DTEND;TZID=Europe/Bratislava:20270211T100000
+SUMMARY:SBA mikropôžička: overiť
+DESCRIPTION:Na sba.sk over aktuálne podmienky mikropôžičky (výška\, 
+ úrok\, ručiteľ\, odklad istiny) ako náhradný variant.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SBA mikropôžička: overiť
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:85097a6a-529f-52d7-bbe8-75c029568145@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270212T080000
+DTEND;TZID=Europe/Bratislava:20270212T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7c03fa57-21ee-57a6-be34-0045e4b2368b@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270213T090000
+DTEND;TZID=Europe/Bratislava:20270213T100000
+SUMMARY:Fotoalbum pred a po (voliteľné)
+DESCRIPTION:Vyber 10 najlepších dvojíc fotiek pred a po pre investora.\n
+ \nToto je doplnková úloha. Ak si s Baškou alebo si unavený\, pokojne j
+ u vynechaj alebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fotoalbum pred a po (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1116dfd6-4e15-5287-bc72-837f869c83ef@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270215T090000
+DTEND;TZID=Europe/Bratislava:20270215T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d03b2dfa-f2c8-52f1-b1bc-c8bd6c02bc23@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270216T090000
+DTEND;TZID=Europe/Bratislava:20270216T093000
+SUMMARY:Dohodnúť stretnutie s investorom
+DESCRIPTION:Zavolaj investorovi a dohodni stretnutie na budúci týždeň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dohodnúť stretnutie s investorom
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20400eb5-539e-5d51-bbac-5b9e3d72b77b@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270219T080000
+DTEND;TZID=Europe/Bratislava:20270219T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb03addb-98de-5330-8d64-1bef4bbf6fcd@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270220T090000
+DTEND;TZID=Europe/Bratislava:20270220T100000
+SUMMARY:Nácvik prezentácie (voliteľné)
+DESCRIPTION:Druhý nácvik\, tentoraz s číslami naspamäť.\n\nToto je do
+ plnková úloha. Ak si s Baškou alebo si unavený\, pokojne ju vynechaj a
+ lebo presuň.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nácvik prezentácie (voliteľné)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd19615-0bad-5d25-a8a9-9e6911a7e6b3@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270222T090000
+DTEND;TZID=Europe/Bratislava:20270222T093000
+SUMMARY:Plán týždňa
+DESCRIPTION:Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n
+ - Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby
+  chémie a palivo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plán týždňa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fddcbf0-3b87-5958-9f12-c9a63eeddfd6@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270224T100000
+DTEND;TZID=Europe/Bratislava:20270224T113000
+SUMMARY:Stretnutie s investorom
+DESCRIPTION:Vezmi jednostranový plán\, zmluvy\, čísla a fotky.\nUpresni
+  termín podľa dohody s investorom.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stretnutie s investorom
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3dad94-e8d3-57d2-9ed3-a8273ea15772@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270226T080000
+DTEND;TZID=Europe/Bratislava:20270226T120000
+SUMMARY:Umývanie
+DESCRIPTION:Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodn
+ i so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro r
+ áno.\n- Deň vopred skontroluj zoznam vozidiel\, chémiu a palivo.\n- Fot
+ ky pred a po\, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Pr
+ estávka 15 min v polovici\, pi vodu.\n- Doma: zapíš počet áut a spotr
+ ebu chémie.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umývanie
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14315fce-320a-5f35-b731-76d1ec5a1378@kamiony
+DTSTAMP:20261008T133711Z
+SEQUENCE:0
+LAST-MODIFIED:20261008T133711Z
+DTSTART;TZID=Europe/Bratislava:20270226T130000
+DTEND;TZID=Europe/Bratislava:20270226T143000
+SUMMARY:Faktúra za február a bilancia
+DESCRIPTION:Faktúry za február\, mesačná bilancia.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Faktúra za február a bilancia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
