@@ -4,8 +4,9 @@
   "start": "16:30",
   "end": "17:30",
   "title": "Názov služby",
-  "desc": "Zajtra robíš ponuku s cenníkom, potrebuješ k nej názov.\n- Vymysli 3 až 5 názvov: krátke, ľahko zapamätateľné, aby bolo jasné, že umývaš kamióny a dodávky u zákazníka.\n- Over na zrsr.sk a orsr.sk, že ich nepoužíva iná firma, a skús ich vyhľadať na Googli a Facebooku.\n- Pozri, či je voľná doména .sk (napríklad na sk-nic.sk). Zatiaľ nič nekupuj.\n- Vyber jeden. Pri živnosti bude obchodné meno tvoje meno a priezvisko a názov môže byť dodatok za ním.\n- Zapíš si ho, zajtra ho použiješ v ponuke.",
-  "id": "k142"
+  "desc": "Zajtra robíš ponuku s cenníkom, potrebuješ k nej názov.\n- Vymysli 3 až 5 názvov: krátke, ľahko zapamätateľné, aby bolo jasné, že umývaš kamióny a dodávky u zákazníka.\n- Over na zrsr.sk a orsr.sk, že ich nepoužíva iná firma, a skús ich vyhľadať na Googli a Facebooku.\n- Pozri, či je voľná doména .sk (napríklad na sk-nic.sk). Zatiaľ nič nekupuj.\n- Vyber jeden. Pri živnosti bude obchodné meno tvoje meno a priezvisko a názov môže byť dodatok za ním.\n- Zapíš si ho, zajtra ho použiješ v ponuke.\n\nSplnené: vybraný názov Vydrhnuté (doména vydrhnute.sk, zatiaľ nekúpená).",
+  "id": "k142",
+  "done": true
  },
  {
   "date": "2026-10-09",
@@ -20,7 +21,7 @@
   "start": "12:15",
   "end": "13:45",
   "title": "Jednostranová ponuka s cenníkom",
-  "desc": "Vytvor 1 stranu na vytlačenie (Canva alebo Word).\n- Kto si, čo ponúkaš, ako to funguje (u nich, na ich umývacom mieste).\n- Cenník: dodávka 10 €, ťahač 12 €, súprava 18 až 22 €, interiér +10 až 15 €, ložná plocha +8 až 12 €.\n- Skúška 2 až 3 vozidiel zadarmo.\n- Telefón, e-mail. Vytlač 15 ks.",
+  "desc": "Vytvor 1 stranu na vytlačenie (Canva alebo Word) pod názvom Vydrhnuté (vydrhnute.sk).\n- Kto si, čo ponúkaš, ako to funguje (u nich, na ich umývacom mieste).\n- Cenník: dodávka 10 €, ťahač 12 €, súprava 18 až 22 €, interiér +10 až 15 €, ložná plocha +8 až 12 €.\n- Skúška 2 až 3 vozidiel zadarmo.\n- Telefón, e-mail. Vytlač 15 ks.",
   "id": "k002"
  },
  {
@@ -156,7 +157,7 @@
   "start": "09:00",
   "end": "10:30",
   "title": "Fotky a jednoduchá prezentácia (voliteľné)",
-  "desc": "Priprav si jednoduchú vizitku a stránku na Facebooku alebo Instagrame.\n- Názov, telefón, čo robíš, kde pôsobíš.\n- 3 až 5 fotiek, aj keď zatiaľ len z obhliadok.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
+  "desc": "Priprav si jednoduchú vizitku a stránku na Facebooku alebo Instagrame.\n- Názov Vydrhnuté, telefón, čo robíš, kde pôsobíš.\n- 3 až 5 fotiek, aj keď zatiaľ len z obhliadok.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
   "id": "k019"
  },
  {
@@ -220,7 +221,7 @@
   "start": "09:00",
   "end": "10:00",
   "title": "Objednať vizitky",
-  "desc": "- Vizitky 100 ks (do 20 €), dodanie zvyčajne do týždňa.\n- Magnetické tabule na Octaviu a tričko s nápisom objednaj až po prvej podpísanej zmluve, podľa rozpočtu.",
+  "desc": "- Vizitky Vydrhnuté 100 ks (do 20 €), dodanie zvyčajne do týždňa.\n- Magnetické tabule na Octaviu a tričko s nápisom objednaj až po prvej podpísanej zmluve, podľa rozpočtu.",
   "id": "k027"
  },
  {

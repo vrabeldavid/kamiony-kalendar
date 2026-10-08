@@ -42,7 +42,7 @@ for r in sorted(ev, key=lambda x: (x["date"], x["start"])):
           f"SEQUENCE:{seq}", f"LAST-MODIFIED:{stamp}",
           f"DTSTART;TZID=Europe/Bratislava:{f(r['start'])}",
           f"DTEND;TZID=Europe/Bratislava:{f(r['end'])}",
-          "SUMMARY:" + esc(r["title"]),
+          "SUMMARY:" + esc(("✓ " if r.get("done") else "") + r["title"]),
           "DESCRIPTION:" + esc(r["desc"]),
           "BEGIN:VALARM", "ACTION:DISPLAY", "DESCRIPTION:" + esc(r["title"]),
           "TRIGGER:-PT30M", "END:VALARM", "END:VEVENT"]
