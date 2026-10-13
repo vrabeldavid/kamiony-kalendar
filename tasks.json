@@ -9,9 +9,9 @@
   "done": true
  },
  {
-  "date": "2026-10-09",
-  "start": "10:00",
-  "end": "12:00",
+  "date": "2026-10-19",
+  "start": "15:00",
+  "end": "17:00",
   "title": "Nácvik predajného rozhovoru",
   "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.\n- Nauč sa 3 argumenty: platený čas vodiča (smernica 2002/15/ES), žiadny odklon na umyváreň, čisté auto ako vizitka.\n- Odpovede na námietky: Máme to vyriešené -> skúška zadarmo. Je to drahé -> porovnaj s cenou umyvárne (súprava 34 až 38 € bez DPH) plus čas vodiča.\n- Nacvič nahlas aspoň 5x, nahraj sa na mobil.",
   "id": "k001"
@@ -22,15 +22,17 @@
   "end": "13:45",
   "title": "Jednostranová ponuka s cenníkom",
   "desc": "Vytvor 1 stranu na vytlačenie (Canva alebo Word) pod názvom Vydrhnuté (vydrhnute.sk).\n- Kto si, čo ponúkaš, ako to funguje (u nich, na ich umývacom mieste).\n- Cenník: dodávka 10 €, ťahač 12 €, súprava 18 až 22 €, interiér +10 až 15 €, ložná plocha +8 až 12 €.\n- Skúška 2 až 3 vozidiel zadarmo.\n- Telefón, e-mail. Vytlač 15 ks.",
-  "id": "k002"
+  "id": "k002",
+  "done": true
  },
  {
   "date": "2026-10-09",
   "start": "14:30",
   "end": "16:00",
   "title": "Dokončiť mapovanie a tabuľku firiem",
-  "desc": "Dokonči firmy skupiny A, na ktoré nezostal čas: BOJKUN, Protrans SK, IMP Transport, Target Group, Autodoprava Kočiš, NESATRANS, TRIPARK, Osif Peter, PM EXPRES.\n- Pre každú: areál, umývacie miesto a odlučovač áno/nie, počet kamiónov a dodávok, kontakt na dispečera.\n- Kontakty z webu firmy, finstat.sk, orsr.sk. Zapisuj do tabuľky v iCloud Drive/Kamiony.",
-  "id": "k003"
+  "desc": "Dokonči firmy skupiny A, na ktoré nezostal čas: BOJKUN, Protrans SK, IMP Transport, Target Group, Autodoprava Kočiš, NESATRANS, TRIPARK, Osif Peter, PM EXPRES.\n- Pre každú: areál, umývacie miesto a odlučovač áno/nie, počet kamiónov a dodávok, kontakt na dispečera.\n- Kontakty z webu firmy, finstat.sk, orsr.sk. Zapisuj do tabuľky v iCloud Drive/Vydrhnute.",
+  "id": "k003",
+  "done": true
  },
  {
   "date": "2026-10-10",
