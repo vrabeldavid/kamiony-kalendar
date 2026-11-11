@@ -25,7 +25,7 @@ seq = int(os.environ.get("SEQ", "0"))
 L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Kamiony//Plan//SK",
      "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
      "X-WR-CALNAME:Kamióny", "X-WR-TIMEZONE:Europe/Bratislava",
-     "X-WR-CALDESC:Rozbeh mobilného umývania kamiónov. Pracovné bloky PO až PI\\, sobota len voliteľné\\, nedeľa voľno.",
+     "X-WR-CALDESC:Rozbeh mobilného umývania kamiónov. Pracovné bloky pondelok až sobota\\, nedeľa voľno.",
      "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H",
      "BEGIN:VTIMEZONE", "TZID:Europe/Bratislava",
      "BEGIN:DAYLIGHT", "TZOFFSETFROM:+0100", "TZOFFSETTO:+0200", "TZNAME:CEST",

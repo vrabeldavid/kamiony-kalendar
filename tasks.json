@@ -347,795 +347,571 @@
   "id": "k042"
  },
  {
-  "date": "2026-11-11",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Skúška u firmy 1",
-  "desc": "Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas na každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50 zima, penový nadstavec 1:5 leto / 1:3 zima, oplach 120 až 150 bar.\n- Po umytí fotky po, podpis dispečera.\n- Prestávka 15 min v polovici.",
-  "id": "k043"
+  "date": "2026-11-12",
+  "start": "09:00",
+  "end": "09:30",
+  "title": "Nový plán: prečítať",
+  "desc": "Prečítaj si nový plán: https://claude.ai/artifact/1fNzagjhcA8NutmzBpLi8W\n- Začíname interiérmi kabín a dodávok, exteriér až od marca.\n- Do 28. 11. spravíš 60 hovorov, cieľ sú aspoň 3 firmy, ktoré chcú skúšku zadarmo.\n- Kým nie je záujem, nič nekupuješ.",
+  "id": "k143"
  },
  {
   "date": "2026-11-12",
-  "start": "08:00",
+  "start": "09:30",
   "end": "12:00",
-  "title": "Skúška u firmy 2",
-  "desc": "Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas na každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50 zima, penový nadstavec 1:5 leto / 1:3 zima, oplach 120 až 150 bar.\n- Po umytí fotky po, podpis dispečera.\n- Prestávka 15 min v polovici.",
-  "id": "k044"
+  "title": "Zoznam firiem: stavebné a dodávky",
+  "desc": "Rozšír tabuľku firiem (Vydrhnute/tabulka-firiem.xlsx) na 40 firiem. Doobeda prvé dva segmenty:\n1. Stavebné firmy a stavebniny (autá doma každý večer), napríklad TRIPARK, Plynroz.\n2. Firmy s dodávkami: distribúcia, servisy, kuriéri, napríklad TRANS-DACH, PM EXPRES.\n- Ku každej telefón a meno majiteľa alebo dispečera.\n- Pridaj stĺpce Stav (Nevolané, Volané, Návšteva, Skúška, Ponuka, Zákazník, Nie), Ďalší krok a Dátum ďalšieho kroku.\n- Ak chceš, zoznam ti pripravím a ty len skontroluješ telefóny, stačí napísať do projektu.",
+  "id": "k144"
  },
  {
   "date": "2026-11-12",
-  "start": "13:30",
-  "end": "15:00",
-  "title": "Ponuka pre firmu 1",
-  "desc": "- Spracuj fotky pred a po.\n- Zapíš namerané časy.\n- Pošli ponuku s cenou za kus a fotkami do 2 dní od skúšky.\n- Zavolaj dispečerovi, či boli spokojní.",
-  "id": "k045"
- },
- {
-  "date": "2026-11-13",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Skúška u firmy 3",
-  "desc": "Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas na každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50 zima, penový nadstavec 1:5 leto / 1:3 zima, oplach 120 až 150 bar.\n- Po umytí fotky po, podpis dispečera.\n- Prestávka 15 min v polovici.",
-  "id": "k046"
- },
- {
-  "date": "2026-11-13",
   "start": "13:00",
-  "end": "14:00",
-  "title": "Ponuka pre firmu 2",
-  "desc": "Fotky, namerané časy, ponuka s cenou za kus do 2 dní od skúšky.",
-  "id": "k047"
+  "end": "15:00",
+  "title": "Zoznam firiem: autobusy, technika, dopravcovia",
+  "desc": "Pokračuj v zozname, ďalšie segmenty:\n3. Autobusy, napríklad Arriva (Michalovce, Sobrance).\n4. Cestná a lesná technika, napríklad Správa ciest KSK, Lesy SR.\n5. Medzinárodní dopravcovia až nakoniec, napríklad BOJKUN, Protrans SK, Osif Peter.\n- Ku každej telefón a meno majiteľa alebo dispečera.",
+  "id": "k145"
+ },
+ {
+  "date": "2026-11-12",
+  "start": "15:15",
+  "end": "16:15",
+  "title": "Nácvik scenára hovoru nahlas",
+  "desc": "Nacvič scenár hovoru nahlas (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Aspoň 5x nahlas, nahraj sa na mobil a vypočuj si to.\n- Otázku „Kedy máte autá v areáli?“ daj hneď na začiatok.\n- Ponúkni najprv interiér kabín.\n- Námietky: Máme to vyriešené, Koľko to stojí, Pošlite to mailom, Kto zaplatí škodu.",
+  "id": "k146"
  },
  {
   "date": "2026-11-13",
-  "start": "14:15",
-  "end": "15:00",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k048"
+  "start": "09:00",
+  "end": "11:00",
+  "title": "Ponuka s novými cenami",
+  "desc": "Uprav ponuku (Vydrhnute/predaj/vydrhnute-ponuka.docx) na nové ceny:\n- Interiér kabíny 45 €, s tepovaním sedadiel a lôžka 70 €, interiér dodávky 30 €.\n- Exteriér od marca: súprava 30 €, ťahač sólo 22 €, dodávka 15 €, ložná plocha +12 €.\n- Výjazd s menej ako 5 vozidlami +15 €.\n- Skúška zadarmo na 2 vozidlách.\n- Doplň telefón a e-mail a ulož aj ako PDF.\n- Ak chceš, upravím ti ju ja, stačí napísať do projektu.",
+  "id": "k147"
+ },
+ {
+  "date": "2026-11-13",
+  "start": "11:15",
+  "end": "12:30",
+  "title": "Dokončiť zoznam 40 firiem",
+  "desc": "Doplň chýbajúce telefóny a mená, zoraď firmy podľa segmentov a označ 10 firiem na pondelok.",
+  "id": "k148"
+ },
+ {
+  "date": "2026-11-13",
+  "start": "13:30",
+  "end": "14:30",
+  "title": "Nácvik hovoru s kamarátom",
+  "desc": "Zahraj si hovor s kamarátom, ktorý bude hrať nepríjemného majiteľa.\n- Precvič hlavne námietky.\n- Na konci vždy navrhni návštevu v dva konkrétne dni.",
+  "id": "k149"
  },
  {
   "date": "2026-11-14",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Fotky pred a po: archív (voliteľné)",
-  "desc": "Roztrieď fotky zo skúšok do priečinkov podľa firmy a dátumu. Vyber najlepšie dvojice pred/po pre ponuky a investora.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k049"
+  "start": "10:00",
+  "end": "11:30",
+  "title": "Príprava na prvé hovory",
+  "desc": "Priprav sa na pondelok.\n- Skontroluj 10 firiem na pondelok a ich telefóny.\n- Maj scenár v mobile alebo vytlačený.\n- Úvod hovoru nahlas ešte 3x.",
+  "id": "k150"
  },
  {
   "date": "2026-11-16",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.\nUtorok 17. 11. je sviatok, voľno.",
-  "id": "k050"
- },
- {
-  "date": "2026-11-16",
-  "start": "09:30",
   "end": "10:30",
-  "title": "Ponuka pre firmu 3",
-  "desc": "Ponuka po skúške do 2 dní, aktualizuj tabuľku firiem.",
-  "id": "k051"
+  "title": "Hovory 1 až 10",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k151"
  },
  {
   "date": "2026-11-16",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k152"
+ },
+ {
+  "date": "2026-11-17",
+  "start": "09:00",
+  "end": "10:30",
+  "title": "Hovory 11 až 20",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k153"
+ },
+ {
+  "date": "2026-11-17",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k154"
+ },
+ {
+  "date": "2026-11-18",
+  "start": "10:00",
+  "end": "12:00",
+  "title": "Návštevy alebo dovolávanie",
+  "desc": "Choď na návštevy dohodnuté z hovorov.\nAk žiadnu nemáš, zavolaj firmám, ktoré nedvíhali alebo chceli zavolať neskôr (stĺpec Dátum ďalšieho kroku).",
+  "id": "k155"
+ },
+ {
+  "date": "2026-11-18",
   "start": "13:00",
   "end": "14:30",
-  "title": "Stretnutie: zmluva s firmou 1",
-  "desc": "- Vezmi 2 vytlačené zmluvy.\n- Dohodni pravidelný deň umývania, zoznam vozidiel, kontakt na dispečera.\n- Podpis.",
-  "id": "k052"
+  "title": "Profil firmy na Google Maps",
+  "desc": "Založ firemný profil Vydrhnuté na Google Maps: telefón, oblasť (Michalovce a okolie), služby a ceny.\nPomôže, keď si ťa dispečer po hovore vyhľadá. Fotky pred a po pridáš po prvých skúškach.",
+  "id": "k156"
  },
  {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "start": "09:00",
-  "end": "11:00",
-  "title": "Úprava cenníka",
-  "desc": "Vzorec: cena za kus = hodinová sadzba (20 €) × čas + chémia + doprava.\n- Dosaď namerané časy zo skúšok.\n- Minimálne 5 vozidiel na výjazd alebo paušál za výjazd okolo 15 €.\n- Extrémne znečistené +30 %.",
-  "id": "k053"
- },
- {
-  "date": "2026-11-18",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Follow-up firmy 2 a 3",
-  "desc": "Zavolaj, ako sa rozhodli. Pri súhlase dohodni stretnutie na podpis zmluvy.",
-  "id": "k054"
+  "end": "10:30",
+  "title": "Hovory 21 až 30",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k157"
  },
  {
   "date": "2026-11-19",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k158"
+ },
+ {
+  "date": "2026-11-20",
+  "start": "09:00",
+  "end": "09:15",
+  "title": "Kontrola tabuľky",
+  "desc": "Kontrola tabuľky (15 min).\n- Spočítaj hovory, záujem, dohodnuté návštevy a skúšky.\n- Pozri, komu treba zavolať znova a kedy.\n- Cieľ do 28. 11.: z 60 hovorov aspoň 3 firmy, ktoré chcú skúšku zadarmo.",
+  "id": "k159"
+ },
+ {
+  "date": "2026-11-20",
   "start": "09:30",
-  "end": "11:00",
-  "title": "Stretnutie: zmluva s firmou 2",
-  "desc": "Vezmi zmluvy, dohodni pravidelný deň a zoznam vozidiel.",
-  "id": "k055"
- },
- {
-  "date": "2026-11-19",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Administratíva",
-  "desc": "- Zapíš náklady na nákup, bločky a faktúry odlož pre účtovníčku.\n- Ak ešte nie je, objednaj magnetické tabule na auto.",
-  "id": "k056"
- },
- {
-  "date": "2026-11-20",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie: prvý platený výjazd",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.\nAk ešte nemáš zmluvu, použi čas na follow-up telefonáty.",
-  "id": "k057"
- },
- {
-  "date": "2026-11-20",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k058"
+  "end": "11:30",
+  "title": "Návštevy alebo dovolávanie",
+  "desc": "Choď na návštevy dohodnuté z hovorov.\nAk žiadnu nemáš, zavolaj firmám, ktoré nedvíhali alebo chceli zavolať neskôr (stĺpec Dátum ďalšieho kroku).",
+  "id": "k160"
  },
  {
   "date": "2026-11-21",
   "start": "09:00",
-  "end": "10:00",
-  "title": "Údržba a kontrola výbavy (voliteľné)",
-  "desc": "Umy a usuš kefy a mikrovlákna, skontroluj zásoby chémie, doplň, čo chýba.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k059"
+  "end": "13:00",
+  "title": "Návštevy firiem so záujmom",
+  "desc": "Návštevy firiem, ktoré mali v hovore záujem (obhliadka okolo 20 minút).\n- Zisti: koľko áut a akých, kde a kedy stoja, kto rozhoduje.\n- Pri exteriéri sa vždy opýtaj: „Máte umývaciu plochu s odlučovačom ropných látok?“ Ak nie, ponúkaj len interiér.\n- Dohodni skúšku zadarmo na 2 vozidlách (robiť ju môžeš až so živnosťou a poistením).\n- V sobotu sú doma aj kamióny medzinárodných dopravcov.\n- Ak nemáš dohodnutú návštevu, prejdi autom okolo areálov zo zoznamu a pozri, kde stoja autá (bez dovolenia nevstupuj).",
+  "id": "k161"
  },
  {
   "date": "2026-11-23",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k060"
+  "end": "10:30",
+  "title": "Hovory 31 až 40",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
+  "id": "k162"
  },
  {
   "date": "2026-11-23",
-  "start": "09:30",
+  "start": "10:45",
   "end": "11:30",
-  "title": "Nové firmy do 40 km",
-  "desc": "Nájdi firmy v Trebišove, Sobranciach a Humennom (dopravcovia, stavebné firmy, kuriéri, autobusy).\nDoplň do tabuľky, dohodni návštevy na utorok a stredu.",
-  "id": "k061"
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k163"
  },
  {
   "date": "2026-11-24",
   "start": "09:00",
-  "end": "12:00",
-  "title": "Návštevy: Trebišov a Sobrance",
-  "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.\nPri obhliadke zisti: voda (prípojka, tlak), tlakový stroj a typ koncovky, odlučovač ropných látok, osvetlenie, kedy sú autá v depe, koľko áut a akého typu, či je umývacie miesto v hale alebo vykurované.",
-  "id": "k062"
+  "end": "10:30",
+  "title": "Hovory 41 až 50",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
+  "id": "k164"
+ },
+ {
+  "date": "2026-11-24",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k165"
  },
  {
   "date": "2026-11-25",
-  "start": "09:00",
+  "start": "10:00",
   "end": "12:00",
-  "title": "Návštevy: Humenné",
-  "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.\nPri obhliadke zisti: voda (prípojka, tlak), tlakový stroj a typ koncovky, odlučovač ropných látok, osvetlenie, kedy sú autá v depe, koľko áut a akého typu, či je umývacie miesto v hale alebo vykurované.",
-  "id": "k063"
+  "title": "Návštevy alebo dovolávanie",
+  "desc": "Choď na návštevy dohodnuté z hovorov.\nAk žiadnu nemáš, zavolaj firmám, ktoré nedvíhali alebo chceli zavolať neskôr (stĺpec Dátum ďalšieho kroku).",
+  "id": "k166"
  },
  {
   "date": "2026-11-26",
   "start": "09:00",
   "end": "10:30",
-  "title": "Prevádzkovateľ elektrobusov v MI",
-  "desc": "Zisti, kto bude prevádzkovať 9 nových elektrických autobusov mestskej dopravy (web mesta, vestník verejného obstarávania).\nPriprav pre neho ponuku na čistý interiér a exteriér.",
-  "id": "k064"
+  "title": "Hovory 51 až 60",
+  "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
+  "id": "k167"
  },
  {
   "date": "2026-11-26",
-  "start": "13:00",
-  "end": "14:30",
-  "title": "Náklady na jedno auto",
-  "desc": "Spočítaj skutočné náklady z prvých výjazdov: chémia na auto, palivo na výjazd, čas.\nPorovnaj s cenníkom a uprav, ak treba.",
-  "id": "k065"
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k168"
  },
  {
   "date": "2026-11-27",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k066"
+  "start": "09:00",
+  "end": "09:15",
+  "title": "Kontrola tabuľky",
+  "desc": "Kontrola tabuľky (15 min).\n- Spočítaj hovory, záujem, dohodnuté návštevy a skúšky.\n- Pozri, komu treba zavolať znova a kedy.\n- Cieľ do 28. 11.: z 60 hovorov aspoň 3 firmy, ktoré chcú skúšku zadarmo.",
+  "id": "k169"
  },
  {
   "date": "2026-11-27",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k067"
+  "start": "09:30",
+  "end": "11:30",
+  "title": "Návštevy alebo dovolávanie",
+  "desc": "Choď na návštevy dohodnuté z hovorov.\nAk žiadnu nemáš, zavolaj firmám, ktoré nedvíhali alebo chceli zavolať neskôr (stĺpec Dátum ďalšieho kroku).",
+  "id": "k170"
  },
  {
   "date": "2026-11-28",
   "start": "09:00",
-  "end": "10:00",
-  "title": "Hľadanie nových firiem online (voliteľné)",
-  "desc": "Pozri finstat.sk a mapy: dopravcovia a firmy s vozovým parkom do 40 km od Michaloviec. Doplň 5 nových do tabuľky.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k068"
+  "end": "12:00",
+  "title": "Návštevy firiem so záujmom",
+  "desc": "Návštevy firiem, ktoré mali v hovore záujem (obhliadka okolo 20 minút).\n- Zisti: koľko áut a akých, kde a kedy stoja, kto rozhoduje.\n- Pri exteriéri sa vždy opýtaj: „Máte umývaciu plochu s odlučovačom ropných látok?“ Ak nie, ponúkaj len interiér.\n- Dohodni skúšku zadarmo na 2 vozidlách (robiť ju môžeš až so živnosťou a poistením).\n- V sobotu sú doma aj kamióny medzinárodných dopravcov.\n- Ak nemáš dohodnutú návštevu, prejdi autom okolo areálov zo zoznamu a pozri, kde stoja autá (bez dovolenia nevstupuj).",
+  "id": "k171"
+ },
+ {
+  "date": "2026-11-28",
+  "start": "13:00",
+  "end": "14:00",
+  "title": "Rozhodnutie: ide sa ďalej?",
+  "desc": "Rozhodni podľa tabuľky.\n- Aspoň 3 firmy chcú skúšku: do 5. 12. živnosť, poistenie a minimálna výbava, skúšky 7. až 12. 12., prvý platený zákazník do 19. 12. Kalendár je na to pripravený.\n- Menej ako 3: zmeň ponuku (segment, cenu alebo službu) a sprav ďalších 60 hovorov do 12. 12.\n- V oboch prípadoch napíš výsledok do projektu a kalendár podľa neho spresním.",
+  "id": "k172"
  },
  {
   "date": "2026-11-30",
   "start": "09:00",
   "end": "10:30",
-  "title": "Prvá mesačná faktúra",
-  "desc": "- Vystav faktúru každému zákazníkovi za november so zoznamom vozidiel (ŠPZ, dátum, cena).\n- Splatnosť 14 dní.\n- Pošli e-mailom, kópiu odlož pre účtovníčku.",
-  "id": "k069"
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k173"
  },
  {
   "date": "2026-11-30",
   "start": "10:45",
-  "end": "11:15",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k070"
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k174"
+ },
+ {
+  "date": "2026-11-30",
+  "start": "13:00",
+  "end": "14:00",
+  "title": "Ohlásiť živnosť",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nOhlás živnosť online cez slovensko.sk alebo na Okresnom úrade Michalovce (poplatok 5 až 50 €). Bez živnosti nerob ani skúšky.",
+  "id": "k175"
  },
  {
   "date": "2026-12-01",
-  "start": "09:30",
+  "start": "09:00",
   "end": "10:30",
-  "title": "Požiadať o odporúčanie",
-  "desc": "Spýtaj sa spokojného zákazníka, či pozná inú firmu, ktorej by ťa odporučil. Ideálne poprosiť o telefonát alebo kontakt.",
-  "id": "k071"
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k176"
+ },
+ {
+  "date": "2026-12-01",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k177"
+ },
+ {
+  "date": "2026-12-01",
+  "start": "13:00",
+  "end": "14:30",
+  "title": "Poistenie zodpovednosti",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nPoistenie zodpovednosti, ktoré výslovne kryje škody na vozidlách zákazníka. Vyžiadaj ponuky aspoň od 2 poisťovní (odhad 300 až 800 € ročne). Pred prvou skúškou ho musíš mať.",
+  "id": "k178"
  },
  {
   "date": "2026-12-02",
-  "start": "09:00",
+  "start": "10:00",
   "end": "11:00",
-  "title": "Mesačná bilancia",
-  "desc": "Tržby, náklady (chémia, palivo, poistenie), hodiny, zisk na hodinu.\nZapíš do tabuľky, budú sa hodiť pre investora.",
-  "id": "k072"
+  "title": "Stretnutie s účtovníčkou",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nJedno stretnutie s účtovníčkou: odvody študenta, prechod na externé štúdium, zdravotné poistenie, DPH.",
+  "id": "k179"
+ },
+ {
+  "date": "2026-12-02",
+  "start": "13:00",
+  "end": "14:00",
+  "title": "Účet a fakturačný program",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nZalož účet na podnikanie a vyber fakturačný program. Priprav vzor faktúry so splatnosťou 14 dní.",
+  "id": "k180"
  },
  {
   "date": "2026-12-03",
-  "start": "09:30",
+  "start": "09:00",
+  "end": "10:30",
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k181"
+ },
+ {
+  "date": "2026-12-03",
+  "start": "10:45",
   "end": "11:30",
-  "title": "Návštevy nových firiem",
-  "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.",
-  "id": "k073"
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k182"
  },
  {
-  "date": "2026-12-04",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k074"
- },
- {
-  "date": "2026-12-04",
+  "date": "2026-12-03",
   "start": "13:00",
   "end": "14:00",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k075"
+  "title": "Objednávka na jednu stranu",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nJednostranová objednávka namiesto dlhej zmluvy: rozsah, cena za kus, termíny, splatnosť 14 dní, zodpovednosť za škody.",
+  "id": "k183"
+ },
+ {
+  "date": "2026-12-04",
+  "start": "09:00",
+  "end": "09:15",
+  "title": "Kontrola tabuľky",
+  "desc": "Kontrola tabuľky (15 min).\n- Spočítaj hovory, záujem, návštevy, skúšky a zákazníkov.\n- Pozri, komu treba zavolať znova a kedy.",
+  "id": "k184"
+ },
+ {
+  "date": "2026-12-04",
+  "start": "10:00",
+  "end": "12:00",
+  "title": "Nákup minimálnej výbavy",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nMinimálna výbava na interiér za okolo 260 až 300 €:\n- Vysávač na mokro aj sucho Kärcher WD 5 (okolo 150 €)\n- Koch Chemie Green Star, Multi Interior Cleaner a Glass Cleaner, po 1 l\n- 2 rozprašovače, 10 mikrovlákien a sada štetcov\n- Predlžovačka 25 m (alebo požičaná), nitrilové rukavice a návleky\nKupuj až po prvej dohodnutej skúške a bločky si odlož.",
+  "id": "k185"
  },
  {
   "date": "2026-12-05",
   "start": "09:00",
-  "end": "10:00",
-  "title": "Údržba výbavy a zásoby (voliteľné)",
-  "desc": "Skontroluj kefy, hadice a nadstavce, doplň chémiu na ďalší mesiac.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k076"
+  "end": "10:30",
+  "title": "Výbava: test na vlastnom aute",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nVyskúšaj výbavu na vlastnej Octavii: vysávanie, plasty, sklá. Stopni čas, nech vieš, ako dlho ti bude trvať kabína.",
+  "id": "k186"
+ },
+ {
+  "date": "2026-12-05",
+  "start": "11:00",
+  "end": "13:00",
+  "title": "Návštevy firiem so záujmom",
+  "desc": "Návštevy firiem, ktoré mali v hovore záujem (obhliadka okolo 20 minút).\n- Zisti: koľko áut a akých, kde a kedy stoja, kto rozhoduje.\n- Pri exteriéri sa vždy opýtaj: „Máte umývaciu plochu s odlučovačom ropných látok?“ Ak nie, ponúkaj len interiér.\n- Dohodni skúšku zadarmo na 2 vozidlách (robiť ju môžeš až so živnosťou a poistením).\n- V sobotu sú doma aj kamióny medzinárodných dopravcov.\n- Ak nemáš dohodnutú návštevu, prejdi autom okolo areálov zo zoznamu a pozri, kde stoja autá (bez dovolenia nevstupuj).",
+  "id": "k187"
  },
  {
   "date": "2026-12-07",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k077"
+  "end": "10:30",
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k188"
  },
  {
   "date": "2026-12-07",
-  "start": "09:30",
-  "end": "11:00",
-  "title": "Telefonáty: nové firmy z odporúčaní",
-  "desc": "Dohodni skúšky u 2 nových firiem.",
-  "id": "k078"
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k189"
+ },
+ {
+  "date": "2026-12-08",
+  "start": "09:00",
+  "end": "10:30",
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k190"
+ },
+ {
+  "date": "2026-12-08",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k191"
+ },
+ {
+  "date": "2026-12-08",
+  "start": "15:00",
+  "end": "18:00",
+  "title": "Skúška zadarmo 1",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nSkúška zadarmo na 2 vozidlách. Presný čas dohodni so zákazníkom, tento blok je len rezerva.\n- Pred začatím odfoť interiér aj existujúce poškodenia.\n- Stopni čas na každom aute.\n- Po skončení fotky po a podpis dispečera.\n- Fotky odlož do priečinka Vydrhnute.\n- Ponuku pošli do 48 hodín.",
+  "id": "k192"
  },
  {
   "date": "2026-12-09",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Skúška u novej firmy",
-  "desc": "Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas na každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50 zima, penový nadstavec 1:5 leto / 1:3 zima, oplach 120 až 150 bar.\n- Po umytí fotky po, podpis dispečera.\n- Prestávka 15 min v polovici.",
-  "id": "k079"
+  "start": "10:00",
+  "end": "11:00",
+  "title": "Ponuka po skúške",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nPonuka do 48 hodín po skúške, e-mailom: cena za kus, návrh pravidelného termínu, fotky pred a po. Pridaj jednostranovú objednávku.",
+  "id": "k193"
  },
  {
   "date": "2026-12-10",
   "start": "09:00",
   "end": "10:30",
-  "title": "Ponuka a follow-up",
-  "desc": "Ponuka po skúške do 2 dní. Ponúkni aj umývanie pred Vianocami, dopravcovia sú vyťažení.",
-  "id": "k080"
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k194"
+ },
+ {
+  "date": "2026-12-10",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k195"
+ },
+ {
+  "date": "2026-12-10",
+  "start": "15:00",
+  "end": "18:00",
+  "title": "Skúška zadarmo 2",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nSkúška zadarmo na 2 vozidlách. Presný čas dohodni so zákazníkom, tento blok je len rezerva.\n- Pred začatím odfoť interiér aj existujúce poškodenia.\n- Stopni čas na každom aute.\n- Po skončení fotky po a podpis dispečera.\n- Fotky odlož do priečinka Vydrhnute.\n- Ponuku pošli do 48 hodín.",
+  "id": "k196"
  },
  {
   "date": "2026-12-11",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k081"
+  "start": "09:00",
+  "end": "09:15",
+  "title": "Kontrola tabuľky",
+  "desc": "Kontrola tabuľky (15 min).\n- Spočítaj hovory, záujem, návštevy, skúšky a zákazníkov.\n- Pozri, komu treba zavolať znova a kedy.\n- Ak si 28. 11. nemal 3 skúšky: vyhodnoť ďalších 60 hovorov. Ak ani teraz nikto nechce skúšku, biznis v tejto podobe nefunguje a stratil si čas, nie peniaze.",
+  "id": "k197"
  },
  {
   "date": "2026-12-11",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Čísla a fotky pre investora",
-  "desc": "Zbieraj: zmluvy, počet umytých áut, tržby, najlepšie fotky pred a po, reakcie zákazníkov.\nPotom krátky týždenný prehľad: čo vyšlo, čo presunúť.",
-  "id": "k082"
+  "start": "10:00",
+  "end": "11:00",
+  "title": "Ponuka po skúške",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nPonuka do 48 hodín po skúške, e-mailom: cena za kus, návrh pravidelného termínu, fotky pred a po. Pridaj jednostranovú objednávku.",
+  "id": "k198"
  },
  {
   "date": "2026-12-12",
   "start": "09:00",
-  "end": "10:00",
-  "title": "Referencie od zákazníkov (voliteľné)",
-  "desc": "Poproś dispečerov o krátku vetu, ako sú spokojní. Zapíš si ju aj s menom firmy, pôjde do podkladov pre investora.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k083"
+  "end": "12:00",
+  "title": "Skúška zadarmo 3",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nSkúška zadarmo na 2 vozidlách. Presný čas dohodni so zákazníkom, tento blok je len rezerva.\n- Pred začatím odfoť interiér aj existujúce poškodenia.\n- Stopni čas na každom aute.\n- Po skončení fotky po a podpis dispečera.\n- Fotky odlož do priečinka Vydrhnute.\n- Ponuku pošli do 48 hodín.",
+  "id": "k199"
  },
  {
   "date": "2026-12-14",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k084"
+  "end": "10:30",
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k200"
  },
  {
   "date": "2026-12-14",
-  "start": "09:30",
-  "end": "11:00",
-  "title": "Telefonáty: nové firmy z odporúčaní",
-  "desc": "Dohodni skúšky u 2 nových firiem.",
-  "id": "k085"
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k201"
+ },
+ {
+  "date": "2026-12-14",
+  "start": "13:00",
+  "end": "14:00",
+  "title": "Ponuka po skúške",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nPonuka do 48 hodín po skúške, e-mailom: cena za kus, návrh pravidelného termínu, fotky pred a po. Pridaj jednostranovú objednávku.",
+  "id": "k202"
  },
  {
   "date": "2026-12-15",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Kontrola úhrad faktúr",
-  "desc": "Skontroluj na účte, či zákazníci zaplatili faktúry.\n- Kto nezaplatil: pošli priateľskú pripomienku e-mailom.\n- Po 7 dňoch po splatnosti zavolaj dispečerovi alebo majiteľovi.\n- Zapíš si úhrady do tabuľky.",
-  "id": "k086"
+  "end": "10:30",
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k203"
+ },
+ {
+  "date": "2026-12-15",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k204"
  },
  {
   "date": "2026-12-16",
-  "start": "08:00",
+  "start": "10:00",
   "end": "12:00",
-  "title": "Skúška u novej firmy",
-  "desc": "Skúška zadarmo (2 až 3 vozidlá).\n- Vezmi: aktívnu penu, odmasťovač, čistič diskov, penový nadstavec, kefy, rebrík, mikrovlákna, vedrá, ochranné pomôcky.\n- Pred začatím: fotky každého auta zo všetkých strán (aj existujúce poškodenia!).\n- Stopni čas na každom aute zvlášť.\n- Riedenie peny: postrekovač 1:100 leto / 1:50 zima, penový nadstavec 1:5 leto / 1:3 zima, oplach 120 až 150 bar.\n- Po umytí fotky po, podpis dispečera.\n- Prestávka 15 min v polovici.",
-  "id": "k087"
+  "title": "Objednávky a pravidelné termíny",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nDohodni pravidelné termíny so zákazníkmi po skúškach a podpíšte objednávky. Cieľ: prvý platený zákazník do 19. 12.",
+  "id": "k205"
+ },
+ {
+  "date": "2026-12-16",
+  "start": "13:00",
+  "end": "15:00",
+  "title": "Stránka vydrhnute.sk",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nJednoduchá stránka s fotkami pred a po zo skúšok, cenníkom a telefónom. Doména vydrhnute.sk zatiaľ nie je kúpená, kúp ju až teraz.",
+  "id": "k206"
  },
  {
   "date": "2026-12-17",
   "start": "09:00",
   "end": "10:30",
-  "title": "Ponuka a follow-up",
-  "desc": "Ponuka po skúške do 2 dní. Ponúkni aj umývanie pred Vianocami, dopravcovia sú vyťažení.",
-  "id": "k088"
+  "title": "Hovory (10 firiem)",
+  "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
+  "id": "k207"
+ },
+ {
+  "date": "2026-12-17",
+  "start": "10:45",
+  "end": "11:30",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k208"
  },
  {
   "date": "2026-12-18",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k089"
- },
- {
-  "date": "2026-12-18",
-  "start": "13:00",
-  "end": "14:00",
-  "title": "Čísla a fotky pre investora",
-  "desc": "Zbieraj: zmluvy, počet umytých áut, tržby, najlepšie fotky pred a po, reakcie zákazníkov.\nPotom krátky týždenný prehľad: čo vyšlo, čo presunúť.",
-  "id": "k090"
+  "start": "09:00",
+  "end": "09:15",
+  "title": "Kontrola tabuľky",
+  "desc": "Kontrola tabuľky (15 min).\n- Spočítaj hovory, záujem, návštevy, skúšky a zákazníkov.\n- Pozri, komu treba zavolať znova a kedy.",
+  "id": "k209"
  },
  {
   "date": "2026-12-19",
   "start": "09:00",
-  "end": "10:00",
-  "title": "Príprava na vianočnú špičku (voliteľné)",
-  "desc": "Skontroluj zásoby chémie a stav výbavy pred týždňom 21. 12. Dohodni si, ktoré autá sa umyjú 22. 12.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k091"
+  "end": "13:00",
+  "title": "Prvý platený zákazník (cieľ)",
+  "desc": "Platí, len ak si 28. 11. mal aspoň 3 firmy, ktoré chcú skúšku. Inak tento blok preskoč a napíš mi, preplánujem ho.\n\nPrvé platené čistenie. Čas uprav podľa dohody so zákazníkom.\n- Fotky pred a po, zoznam ŠPZ a podpis dispečera.\n- Faktúra raz za mesiac, splatnosť 14 dní.",
+  "id": "k210"
  },
  {
   "date": "2026-12-21",
   "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa (sviatky)",
-  "desc": "Tento týždeň len stáli zákazníci. 24. až 26. 12. voľno.",
-  "id": "k092"
+  "end": "10:30",
+  "title": "Hovory pred sviatkami",
+  "desc": "Zavolaj firmám so záujmom a zákazníkom a dohodni termíny na január.",
+  "id": "k211"
  },
  {
   "date": "2026-12-22",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie pred Vianocami",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k093"
- },
- {
-  "date": "2026-12-23",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Vianočné poďakovanie zákazníkom",
-  "desc": "Pošli krátku SMS alebo e-mail s poďakovaním a želaním. Udrží ťa to v hlave u dispečerov.",
-  "id": "k094"
- },
- {
-  "date": "2026-12-28",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k095"
- },
- {
-  "date": "2026-12-29",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k096"
- },
- {
-  "date": "2026-12-30",
-  "start": "09:00",
-  "end": "10:30",
-  "title": "Faktúra za december",
-  "desc": "Faktúry za december so zoznamami vozidiel. Pošli e-mailom.",
-  "id": "k097"
- },
- {
-  "date": "2026-12-31",
   "start": "10:00",
   "end": "11:30",
-  "title": "Ročné podklady a ciele na január",
-  "desc": "- Všetky doklady pre účtovníčku do jednej zložky.\n- Pozri sa späť na plán, čo vyšlo.\n- Cieľ na január: tretí pravidelný zákazník, udržať existujúcich počas skúšok.",
-  "id": "k098"
- },
- {
-  "date": "2027-01-02",
-  "start": "10:00",
-  "end": "11:00",
-  "title": "Ciele na rok 2027 (voliteľné)",
-  "desc": "Napíš si 3 ciele na rok: počet zákazníkov, mesačné tržby, technika. Krátko, na jednu stranu.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k099"
- },
- {
-  "date": "2027-01-04",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Termíny skúšok CEVRO do kalendára",
-  "desc": "Zapíš si termíny skúšok a umývanie plánuj mimo nich.\nPočas skúškového len stáli zákazníci, nové firmy neotváraj.",
-  "id": "k100"
- },
- {
-  "date": "2027-01-04",
-  "start": "10:15",
-  "end": "11:00",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k101"
- },
- {
-  "date": "2027-01-07",
-  "start": "09:30",
-  "end": "11:00",
-  "title": "Tretí zákazník: follow-up",
-  "desc": "Zavolaj firmám po decembrových skúškach. Cieľ: tretia zmluva do 31. 1.",
-  "id": "k102"
- },
- {
-  "date": "2027-01-08",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k103"
- },
- {
-  "date": "2027-01-08",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k104"
- },
- {
-  "date": "2027-01-09",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Údržba výbavy (voliteľné)",
-  "desc": "Zimná kontrola: hadice, nadstavce, riedenie chémie 1:50 a 1:3 na zimu.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k105"
- },
- {
-  "date": "2027-01-11",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.",
-  "id": "k106"
- },
- {
-  "date": "2027-01-14",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Kontrola úhrad faktúr",
-  "desc": "Skontroluj na účte, či zákazníci zaplatili faktúry.\n- Kto nezaplatil: pošli priateľskú pripomienku e-mailom.\n- Po 7 dňoch po splatnosti zavolaj dispečerovi alebo majiteľovi.\n- Zapíš si úhrady do tabuľky.",
-  "id": "k107"
- },
- {
-  "date": "2027-01-15",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k108"
- },
- {
-  "date": "2027-01-15",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k109"
- },
- {
-  "date": "2027-01-16",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Fotky a referencie (voliteľné)",
-  "desc": "Doplň fotoalbum pred a po, zapíš nové referencie od dispečerov.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k110"
- },
- {
-  "date": "2027-01-18",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.",
-  "id": "k111"
- },
- {
-  "date": "2027-01-20",
-  "start": "09:30",
-  "end": "11:00",
-  "title": "Tretí zákazník: podpis zmluvy",
-  "desc": "Ak firma súhlasí, podpis zmluvy, pravidelný termín, zoznam vozidiel.",
-  "id": "k112"
- },
- {
-  "date": "2027-01-22",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k113"
- },
- {
-  "date": "2027-01-22",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k114"
- },
- {
-  "date": "2027-01-23",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Hľadanie nových firiem (voliteľné)",
-  "desc": "Priprav si zoznam 5 firiem na oslovenie vo februári, po skúškovom období.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k115"
- },
- {
-  "date": "2027-01-25",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.\nSkúškové obdobie: len stáli zákazníci.",
-  "id": "k116"
- },
- {
-  "date": "2027-01-27",
-  "start": "09:00",
-  "end": "10:30",
-  "title": "Rozhodnutie: externé štúdium",
-  "desc": "Pred rozhodnutím sa spýtaj účtovníčky a zdravotnej poisťovne:\n- Ako denný študent do 26 rokov máš pravdepodobne zdravotné poistenie platené štátom.\n- Ako externý si ho zrejme platíš sám ako SZČO.\nSpočítaj, či sa to oplatí.",
-  "id": "k117"
- },
- {
-  "date": "2027-01-29",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k118"
- },
- {
-  "date": "2027-01-29",
-  "start": "13:00",
-  "end": "14:30",
-  "title": "Faktúra za január a bilancia",
-  "desc": "Faktúry za január. Mesačná bilancia: tržby, náklady, hodiny, zisk na hodinu.",
-  "id": "k119"
- },
- {
-  "date": "2027-01-30",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Údržba výbavy (voliteľné)",
-  "desc": "Kontrola a doplnenie chémie, príprava na február.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k120"
+  "title": "Prehľad mesiaca a plán na január",
+  "desc": "Čísla za mesiac: hovory, skúšky, zákazníci, tržby, náklady. Čo fungovalo a čo nie.\nNapíš výsledky do projektu, plán na január a február spresníme.",
+  "id": "k212"
  },
  {
   "date": "2027-02-01",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k121"
- },
- {
-  "date": "2027-02-03",
-  "start": "09:00",
-  "end": "11:30",
-  "title": "Podklady pre investora (1/2)",
-  "desc": "Jedna strana:\n- Čo robíš a pre koho, zmluvy so zákazníkmi.\n- Mesačné tržby december a január, náklady, zisk.\n- Fotky pred a po.",
-  "id": "k122"
- },
- {
-  "date": "2027-02-05",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k123"
- },
- {
-  "date": "2027-02-05",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k124"
- },
- {
-  "date": "2027-02-06",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Nácvik prezentácie pre investora (voliteľné)",
-  "desc": "Povedz nahlas, čo robíš, koľko zarábaš a čo potrebuješ. Do 3 minút. Nahraj sa na mobil.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k125"
- },
- {
-  "date": "2027-02-08",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k126"
- },
- {
-  "date": "2027-02-10",
-  "start": "09:00",
-  "end": "11:30",
-  "title": "Podklady pre investora (2/2)",
-  "desc": "- Čo kúpiť: úsporná mobilná výbava 10 až 15 tis. € (použitý Kärcher HDS 1000 De a vozík alebo staršia dodávka).\n- Koľko nových zákazníkov to umožní (firmy bez umývacieho miesta).\n- Čo ponúkaš investorovi: podiel alebo pôžička.\nNacvič prezentáciu nahlas.",
-  "id": "k127"
- },
- {
-  "date": "2027-02-11",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "SBA mikropôžička: overiť",
-  "desc": "Na sba.sk over aktuálne podmienky mikropôžičky (výška, úrok, ručiteľ, odklad istiny) ako náhradný variant.",
-  "id": "k128"
- },
- {
-  "date": "2027-02-11",
-  "start": "10:15",
-  "end": "10:45",
-  "title": "Kontrola úhrad faktúr",
-  "desc": "Skontroluj na účte, či zákazníci zaplatili faktúry.\n- Kto nezaplatil: pošli priateľskú pripomienku e-mailom.\n- Po 7 dňoch po splatnosti zavolaj dispečerovi alebo majiteľovi.\n- Zapíš si úhrady do tabuľky.",
-  "id": "k129"
- },
- {
-  "date": "2027-02-12",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k130"
- },
- {
-  "date": "2027-02-12",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k131"
- },
- {
-  "date": "2027-02-13",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Fotoalbum pred a po (voliteľné)",
-  "desc": "Vyber 10 najlepších dvojíc fotiek pred a po pre investora.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k132"
- },
- {
-  "date": "2027-02-15",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k133"
- },
- {
-  "date": "2027-02-16",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Dohodnúť stretnutie s investorom",
-  "desc": "Zavolaj investorovi a dohodni stretnutie na budúci týždeň.",
-  "id": "k134"
- },
- {
-  "date": "2027-02-19",
-  "start": "08:00",
-  "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k135"
- },
- {
-  "date": "2027-02-19",
-  "start": "13:00",
-  "end": "13:45",
-  "title": "Týždenný prehľad",
-  "desc": "Týždenný prehľad a administratíva.\n- Čo vyšlo, čo nie.\n- Čísla: počet návštev, skúšok, umytých áut, tržby, náklady.\n- Doplň tabuľku firiem, odpíš na e-maily, odlož doklady.\n- Poznač, čo presunúť na budúci týždeň.",
-  "id": "k136"
- },
- {
-  "date": "2027-02-20",
-  "start": "09:00",
-  "end": "10:00",
-  "title": "Nácvik prezentácie (voliteľné)",
-  "desc": "Druhý nácvik, tentoraz s číslami naspamäť.\n\nToto je doplnková úloha. Ak si s Baškou alebo si unavený, pokojne ju vynechaj alebo presuň.",
-  "id": "k137"
- },
- {
-  "date": "2027-02-22",
-  "start": "09:00",
-  "end": "09:30",
-  "title": "Plán týždňa",
-  "desc": "Plán týždňa (30 min).\n- Pozri úlohy týždňa v pláne.\n- Dohodni telefonicky termíny návštev a skúšok.\n- Skontroluj zásoby chémie a palivo.",
-  "id": "k138"
- },
- {
-  "date": "2027-02-24",
   "start": "10:00",
-  "end": "11:30",
-  "title": "Stretnutie s investorom",
-  "desc": "Vezmi jednostranový plán, zmluvy, čísla a fotky.\nUpresni termín podľa dohody s investorom.",
-  "id": "k139"
- },
- {
-  "date": "2027-02-26",
-  "start": "08:00",
   "end": "12:00",
-  "title": "Umývanie",
-  "desc": "Pravidelné umývanie u zákazníkov.\n- Presný čas si dohodni so zákazníkom: kamióny bývajú v depe v piatok poobede alebo skoro ráno.\n- Deň vopred skontroluj zoznam vozidiel, chémiu a palivo.\n- Fotky pred a po, zápis ŠPZ a času.\n- Podpis dispečera na zozname.\n- Prestávka 15 min v polovici, pi vodu.\n- Doma: zapíš počet áut a spotrebu chémie.",
-  "id": "k140"
- },
- {
-  "date": "2027-02-26",
-  "start": "13:00",
-  "end": "14:30",
-  "title": "Faktúra za február a bilancia",
-  "desc": "Faktúry za február, mesačná bilancia.",
-  "id": "k141"
+  "title": "Príprava exteriéru od marca",
+  "desc": "Exteriér začína v marci.\n- Ktoré firmy majú umývaciu plochu s odlučovačom ropných látok.\n- Aká výbava je potrebná a koľko stojí.\n- Ceny: súprava 30 €, ťahač sólo 22 €, dodávka 15 €, ložná plocha +12 €.\nPodrobnosti sú v novom pláne: https://claude.ai/artifact/1fNzagjhcA8NutmzBpLi8W",
+  "id": "k213"
  }
 ]
