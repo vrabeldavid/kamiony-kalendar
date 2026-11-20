@@ -9,14 +9,6 @@
   "done": true
  },
  {
-  "date": "2026-10-19",
-  "start": "15:00",
-  "end": "17:00",
-  "title": "Nácvik predajného rozhovoru",
-  "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.\n- Nauč sa 3 argumenty: platený čas vodiča (smernica 2002/15/ES), žiadny odklon na umyváreň, čisté auto ako vizitka.\n- Odpovede na námietky: Máme to vyriešené -> skúška zadarmo. Je to drahé -> porovnaj s cenou umyvárne (súprava 34 až 38 € bez DPH) plus čas vodiča.\n- Nacvič nahlas aspoň 5x, nahraj sa na mobil.",
-  "id": "k001"
- },
- {
   "date": "2026-10-09",
   "start": "12:15",
   "end": "13:45",
@@ -89,6 +81,14 @@
   "title": "Okresný úrad Michalovce",
   "desc": "Otázky:\n- Potrebujem povolenie, ak umývam na umývacom mieste zákazníka s odlučovačom?\n- Kto zodpovedá za odpadovú vodu, ja alebo prevádzkovateľ miesta?\n- Čo ak firma nemá odlučovač?\n- Aká chémia je povolená (Kärcher RM 812 / RM 81 do odlučovača)?\nZapíš meno úradníka a odpovede.",
   "id": "k010"
+ },
+ {
+  "date": "2026-10-19",
+  "start": "15:00",
+  "end": "17:00",
+  "title": "Nácvik predajného rozhovoru",
+  "desc": "Hlavná veta: Umyjem vaše autá priamo u vás za pevnú cenu za kus, takže vaši ľudia môžu robiť svoju prácu namiesto umývania.\n- Nauč sa 3 argumenty: platený čas vodiča (smernica 2002/15/ES), žiadny odklon na umyváreň, čisté auto ako vizitka.\n- Odpovede na námietky: Máme to vyriešené -> skúška zadarmo. Je to drahé -> porovnaj s cenou umyvárne (súprava 34 až 38 € bez DPH) plus čas vodiča.\n- Nacvič nahlas aspoň 5x, nahraj sa na mobil.",
+  "id": "k001"
  },
  {
   "date": "2026-10-20",
@@ -451,14 +451,6 @@
   "id": "k155"
  },
  {
-  "date": "2026-11-18",
-  "start": "13:00",
-  "end": "14:30",
-  "title": "Profil firmy na Google Maps",
-  "desc": "Založ firemný profil Vydrhnuté na Google Maps: telefón, oblasť (Michalovce a okolie), služby a ceny.\nPomôže, keď si ťa dispečer po hovore vyhľadá. Fotky pred a po pridáš po prvých skúškach.",
-  "id": "k156"
- },
- {
   "date": "2026-11-19",
   "start": "09:00",
   "end": "10:30",
@@ -499,6 +491,46 @@
   "id": "k161"
  },
  {
+  "date": "2026-11-21",
+  "start": "14:00",
+  "end": "14:20",
+  "id": "k214",
+  "title": "Marketing: firemný Gmail a WhatsApp Business",
+  "desc": "Všetky profily zakladaj na tento e-mail, nie na súkromný.\n- Založ Gmail pre firmu (napr. s menom vydrhnute, ak je voľné). Doménu vydrhnute.sk kúpime až s webom, teraz za 0 €.\n- Nainštaluj WhatsApp Business s číslom, ktoré dávaš firmám. Do profilu daj logo, krátky popis a oblasť Michalovce a okolie. Ak máš na tom čísle súkromný WhatsApp, Business ho prevezme aj s chatmi.\nLogo: iCloud Drive › Vydrhnute › Marketing › logo › v3 › profilovka.png"
+ },
+ {
+  "date": "2026-11-21",
+  "start": "14:20",
+  "end": "15:20",
+  "id": "k215",
+  "title": "Marketing: Facebook stránka a Instagram",
+  "desc": "- Facebook: vytvor stránku Vydrhnuté. Text skopíruj z iCloud Drive › Vydrhnute › Marketing › mozog-znacky › 05-texty.md (časť Facebook stránka). Profilovka: profilovka.png, titulka: facebook-titulka.png (oboje v iCloud Drive › Vydrhnute › Marketing › logo › v3).\n- Instagram: firemný účet s rovnakým menom ako všade (napr. vydrhnute.sk, ak je voľné) a prepoj ho s Facebook stránkou, aby si mohol postovať naraz.\n- Uverejni prvý post z 05-texty.md (časť Prvé 3 posty na Facebook).\n- Tón seriózny, o štúdiu nepíš."
+ },
+ {
+  "date": "2026-11-21",
+  "start": "15:20",
+  "end": "16:00",
+  "id": "k216",
+  "title": "Marketing: TikTok",
+  "desc": "- Založ firemný TikTok s rovnakým menom ako Instagram, rovnakou profilovkou a popisom.\n- Prvé video natoč pri čistení (pred a po), stačí 15 sekúnd.\n- TikTok je skôr pre súkromných ľudí a tepovanie. Firmy ťa tam hľadať nebudú, tie získaš hovormi."
+ },
+ {
+  "date": "2026-11-21",
+  "start": "16:15",
+  "end": "17:00",
+  "title": "Profil firmy na Google Maps",
+  "desc": "Založ firemný profil Vydrhnuté na Google Maps: telefón, oblasť pôsobenia (Michalovce a okolie, adresu skry), služby a ceny.\nText: iCloud Drive › Vydrhnute › Marketing › mozog-znacky › 05-texty.md (časť Google profil firmy). Profilovka: iCloud Drive › Vydrhnute › Marketing › logo › v3 › profilovka.png.\nGoogle môže chcieť overenie, to trvá aj pár dní. Pomôže, keď si ťa dispečer po hovore vyhľadá.",
+  "id": "k156"
+ },
+ {
+  "date": "2026-11-21",
+  "start": "17:00",
+  "end": "17:20",
+  "id": "k217",
+  "title": "Marketing: inzerát na Bazoši",
+  "desc": "Inzerát zadarmo v 2 kategóriách (Služby › Ostatné a Auto-moto › Služby). Text je v iCloud Drive › Vydrhnute › Marketing › mozog-znacky › 05-texty.md (časť Inzerát Bazoš.sk). Hľadajú tam hlavne súkromní ľudia, ktorí chcú tepovanie."
+ },
+ {
   "date": "2026-11-23",
   "start": "09:00",
   "end": "10:30",
@@ -513,6 +545,14 @@
   "title": "Po hovoroch: tabuľka a ponuky",
   "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
   "id": "k163"
+ },
+ {
+  "date": "2026-11-23",
+  "start": "13:00",
+  "end": "15:00",
+  "id": "k218",
+  "title": "Fotky pred a po: interiér Octavie",
+  "desc": "Bez fotiek sú nové profily prázdne.\n- Vyčisti interiér svojej Octavie (vysávač a čistič interiéru stačia). Odfoť ho pred a po z rovnakého uhla a natoč aj krátke video na TikTok a Instagram.\n- Ak sa dá, pridaj ešte auto z rodiny alebo od kamaráta.\n- Fotky ulož do iCloud Drive › Vydrhnute › Marketing › fotky a pridaj ich na Google profil a Facebook."
  },
  {
   "date": "2026-11-24",
