@@ -371,14 +371,6 @@
   "id": "k145"
  },
  {
-  "date": "2026-11-12",
-  "start": "15:15",
-  "end": "16:15",
-  "title": "Nácvik scenára hovoru nahlas",
-  "desc": "Nacvič scenár hovoru nahlas (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Aspoň 5x nahlas, nahraj sa na mobil a vypočuj si to.\n- Otázku „Kedy máte autá v areáli?“ daj hneď na začiatok.\n- Ponúkni najprv interiér kabín.\n- Námietky: Máme to vyriešené, Koľko to stojí, Pošlite to mailom, Kto zaplatí škodu.",
-  "id": "k146"
- },
- {
   "date": "2026-11-13",
   "start": "09:00",
   "end": "11:00",
@@ -484,14 +476,6 @@
  },
  {
   "date": "2026-11-21",
-  "start": "09:00",
-  "end": "13:00",
-  "title": "Návštevy firiem so záujmom",
-  "desc": "Návštevy firiem, ktoré mali v hovore záujem (obhliadka okolo 20 minút).\n- Zisti: koľko áut a akých, kde a kedy stoja, kto rozhoduje.\n- Pri exteriéri sa vždy opýtaj: „Máte umývaciu plochu s odlučovačom ropných látok?“ Ak nie, ponúkaj len interiér.\n- Dohodni skúšku zadarmo na 2 vozidlách (robiť ju môžeš až so živnosťou a poistením).\n- V sobotu sú doma aj kamióny medzinárodných dopravcov.\n- Ak nemáš dohodnutú návštevu, prejdi autom okolo areálov zo zoznamu a pozri, kde stoja autá (bez dovolenia nevstupuj).",
-  "id": "k161"
- },
- {
-  "date": "2026-11-21",
   "start": "15:30",
   "end": "15:45",
   "id": "k214",
@@ -524,9 +508,17 @@
  },
  {
   "date": "2026-11-23",
+  "start": "08:00",
+  "end": "09:00",
+  "title": "Nácvik scenára hovoru nahlas",
+  "desc": "Pred prvými hovormi nacvič scenár hovoru nahlas (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Aspoň 5x nahlas, nahraj sa na mobil a vypočuj si to.\n- Otázku „Kedy máte autá v areáli?“ daj hneď na začiatok.\n- Ponúkni najprv interiér kabín.\n- Námietky: Máme to vyriešené, Koľko to stojí, Pošlite to mailom, Kto zaplatí škodu.",
+  "id": "k146"
+ },
+ {
+  "date": "2026-11-23",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory 31 až 40",
+  "title": "Hovory 1 až 10",
   "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
   "id": "k162"
  },
@@ -558,7 +550,7 @@
   "date": "2026-11-24",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory 41 až 50",
+  "title": "Hovory 11 až 20",
   "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
   "id": "k164"
  },
@@ -582,7 +574,7 @@
   "date": "2026-11-26",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory 51 až 60",
+  "title": "Hovory 21 až 30",
   "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
   "id": "k167"
  },
@@ -623,14 +615,14 @@
   "start": "13:00",
   "end": "14:00",
   "title": "Rozhodnutie: ide sa ďalej?",
-  "desc": "Rozhodni podľa tabuľky.\n- Aspoň 3 firmy chcú skúšku: do 5. 12. živnosť, poistenie a minimálna výbava, skúšky 7. až 12. 12., prvý platený zákazník do 19. 12. Kalendár je na to pripravený.\n- Menej ako 3: zmeň ponuku (segment, cenu alebo službu) a sprav ďalších 60 hovorov do 12. 12.\n- V oboch prípadoch napíš výsledok do projektu a kalendár podľa neho spresním.",
+  "desc": "Rozhodni podľa tabuľky po prvých 30 hovoroch.\n- Aspoň 3 firmy chcú skúšku: do 5. 12. živnosť, poistenie a minimálna výbava, skúšky 7. až 12. 12., prvý platený zákazník do 19. 12. Kalendár je na to pripravený.\n- Menej ako 3: dokonči hovory 31 až 60 (30. 11. až 3. 12.) a rozhodni znova 5. 12. Ak ani potom nie, zmeň ponuku (segment, cenu alebo službu).\n- V oboch prípadoch napíš výsledok do projektu a kalendár podľa neho spresním.",
   "id": "k172"
  },
  {
   "date": "2026-11-30",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory (10 firiem)",
+  "title": "Hovory 31 až 40",
   "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
   "id": "k173"
  },
@@ -654,7 +646,7 @@
   "date": "2026-12-01",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory (10 firiem)",
+  "title": "Hovory 41 až 50",
   "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
   "id": "k176"
  },
@@ -694,7 +686,7 @@
   "date": "2026-12-03",
   "start": "09:00",
   "end": "10:30",
-  "title": "Hovory (10 firiem)",
+  "title": "Hovory 51 až 60",
   "desc": "10 hovorov ďalším firmám podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Ak máš od 28. 11. aspoň 3 skúšky, voláš kvôli ďalším zákazníkom.\n- Ak nie, sú to ďalšie hovory s upravenou ponukou (spolu 60 do 12. 12.).\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.",
   "id": "k181"
  },
