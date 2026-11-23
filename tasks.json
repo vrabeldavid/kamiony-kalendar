@@ -507,60 +507,60 @@
   "id": "k156"
  },
  {
-  "date": "2026-11-23",
-  "start": "08:00",
-  "end": "09:00",
+  "date": "2026-11-24",
+  "start": "09:00",
+  "end": "09:30",
   "title": "Nácvik scenára hovoru nahlas",
   "desc": "Pred prvými hovormi nacvič scenár hovoru nahlas (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Aspoň 5x nahlas, nahraj sa na mobil a vypočuj si to.\n- Otázku „Kedy máte autá v areáli?“ daj hneď na začiatok.\n- Ponúkni najprv interiér kabín.\n- Námietky: Máme to vyriešené, Koľko to stojí, Pošlite to mailom, Kto zaplatí škodu.",
   "id": "k146"
  },
  {
-  "date": "2026-11-23",
-  "start": "09:00",
-  "end": "10:30",
+  "date": "2026-11-24",
+  "start": "09:30",
+  "end": "11:00",
   "title": "Hovory 1 až 10",
   "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
   "id": "k162"
  },
  {
-  "date": "2026-11-23",
-  "start": "10:45",
-  "end": "11:30",
-  "title": "Po hovoroch: tabuľka a ponuky",
-  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
-  "id": "k163"
- },
- {
-  "date": "2026-11-23",
-  "start": "13:00",
-  "end": "15:00",
-  "id": "k218",
-  "title": "Fotky pred a po: interiér Octavie",
-  "desc": "Bez fotiek sú nové profily prázdne.\n- Vyčisti interiér svojej Octavie (vysávač a čistič interiéru stačia). Odfoť ho pred a po z rovnakého uhla a natoč aj krátke video na TikTok a Instagram.\n- Ak sa dá, pridaj ešte auto z rodiny alebo od kamaráta.\n- Fotky ulož do iCloud Drive › Vydrhnute › Marketing › fotky a pridaj ich na Google profil a Facebook."
- },
- {
-  "date": "2026-11-23",
-  "start": "15:00",
-  "end": "15:20",
-  "id": "k217",
-  "title": "Marketing: inzerát na Bazoši",
-  "desc": "Inzerát zadarmo v 2 kategóriách (Služby › Ostatné a Auto-moto › Služby). Text je v iCloud Drive › Vydrhnute › Marketing › mozog-znacky › 05-texty.md (časť Inzerát Bazoš.sk), pridaj fotky pred a po z dnešného čistenia. Hľadajú tam hlavne súkromní ľudia, ktorí chcú tepovanie."
- },
- {
   "date": "2026-11-24",
-  "start": "09:00",
-  "end": "10:30",
+  "start": "11:15",
+  "end": "12:45",
   "title": "Hovory 11 až 20",
   "desc": "10 hovorov podľa scenára (Vydrhnute/predaj/scenar-telefonat-majitel.md).\n- Cieľ hovoru je dohodnúť krátku návštevu, nie predať.\n- Hneď na začiatku sa opýtaj: „Kedy máte autá v areáli?“\n- Ponúkni najprv interiér kabín (45 €, s tepovaním 70 €) a dodávok (30 €). Exteriér až od marca.\n- Poradie: stavebné firmy, firmy s dodávkami, autobusy, cestná technika, až potom medzinárodní dopravcovia.\n- Po každom hovore zapíš do tabuľky Stav, Ďalší krok a Dátum ďalšieho kroku.\n- Ak ti dôjdu firmy zo zoznamu, volaj znova tým, čo nedvíhali, a doplň nové.",
   "id": "k164"
  },
  {
   "date": "2026-11-24",
-  "start": "10:45",
-  "end": "11:30",
+  "start": "13:15",
+  "end": "15:15",
+  "id": "k218",
+  "title": "Fotky pred a po: interiér Octavie",
+  "desc": "Bez fotiek sú nové profily prázdne.\n- Vyčisti interiér svojej Octavie (vysávač a čistič interiéru stačia). Odfoť ho pred a po z rovnakého uhla a natoč aj krátke video na TikTok a Instagram.\n- Ak sa dá, pridaj ešte auto z rodiny alebo od kamaráta.\n- Fotky ulož do iCloud Drive › Vydrhnute › Marketing › fotky a pridaj ich na Google profil a Facebook."
+ },
+ {
+  "date": "2026-11-24",
+  "start": "15:30",
+  "end": "16:15",
+  "title": "Po hovoroch: tabuľka a ponuky",
+  "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
+  "id": "k163"
+ },
+ {
+  "date": "2026-11-24",
+  "start": "16:15",
+  "end": "17:00",
   "title": "Po hovoroch: tabuľka a ponuky",
   "desc": "Hneď po hovoroch:\n- Doplň tabuľku firiem (Stav, Ďalší krok, Dátum ďalšieho kroku).\n- Kto chcel ponuku e-mailom, pošli mu ju ešte dnes (vydrhnute-ponuka.pdf).\n- Dohodnutú návštevu napíš do projektu, pridám ti ju do kalendára.",
   "id": "k165"
+ },
+ {
+  "date": "2026-11-24",
+  "start": "17:00",
+  "end": "17:20",
+  "id": "k217",
+  "title": "Marketing: inzerát na Bazoši",
+  "desc": "Inzerát zadarmo v 2 kategóriách (Služby › Ostatné a Auto-moto › Služby). Text je v iCloud Drive › Vydrhnute › Marketing › mozog-znacky › 05-texty.md (časť Inzerát Bazoš.sk), pridaj fotky pred a po z dnešného čistenia. Hľadajú tam hlavne súkromní ľudia, ktorí chcú tepovanie."
  },
  {
   "date": "2026-11-25",
